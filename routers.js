@@ -8,6 +8,14 @@ const arrRoutes = [
     component: './routes/api/nba/schedule.js'
   },
   {
+    path: '/api/rank',
+    component: './routes/api/nba/rank.js'
+  },
+  {
+    path: '/api/qystats',
+    component: './routes/api/nba/qystats.js'
+  },
+  {
     path: '/api/photo_type',
     component: './routes/api/photo/photo_type'
   },

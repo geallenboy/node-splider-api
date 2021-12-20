@@ -1,0 +1,11 @@
+{
+  "apps": [{
+      "name" : "node-splider-api", 
+      "script": "./bin/www", 
+      "cwd": "./",           
+      "watch": true,
+      "error_file":"./logs/app-err.log",
+      "out_file":"./logs/app-out.log", 
+      "log_date_format":"YYYY-MM-DD HH:mm Z" 
+      }]
+}

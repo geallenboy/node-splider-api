@@ -1,29 +1,19 @@
-const express = require('express')
-const cookieParser = require('cookie-parser')
-const app = express()
-const router = express.Router()
-const interceptor = require('./middlewares/interceptor')
-// 设置静态资源地址
-app.use('/public', express.static('public'))
-app.use('/docs', express.static('docs'))
-app.use(cookieParser())
-const arrRoutes = require('./routers')
-app.get('/favicon.ico', (req, res) => res.end())
-app.use(function (req, res, next) {
-  res.header('Access-Control-Allow-Origin', '*')
-  res.header(
-    'Access-Control-Allow-Headers',
-    'Origin, X-Requested-With, Content-Type, Accept'
-  )
-  res.header('X-Powered-By', ' 3.2.1')
-  //这里可以对应的做一些权限控制、请求拦截处理
-  interceptor(req, res, next)
+const Koa = require('koa')
+const bodyParser = require('koa-bodyparser')
+const koaLogger = require('koa-logger')
+const routers = require('./routes/apiRouter')
+const static_serve = require("koa-static")
+const app = new Koa()
+const cors = require('koa2-cors')
+
+app.use(cors())
+app.use(koaLogger())
+app.use(static_serve(__dirname + "/static"));
+app.use(new bodyParser())
+app.use(routers.routes()).use(routers.allowedMethods())
+
+app.listen(3003, () => {
+  console.log('Web server started at port 3002!')
 })
-for (const route of arrRoutes) {
-  app.use(route.path, require(route.component))
-}
-app.use(router)
-app.listen(3001, () => {
-  console.log('Web server started at port 3001!')
-})
+
 module.exports = app

@@ -1,0 +1,26 @@
+{
+	"result": {
+		"status": {
+			"code": 0,
+			"msg": "player season summary"
+		},
+		"timestamp": "Tue Dec 21 20:17:53 +0800 2021",
+		"data": {
+			"paginator": {
+				"page": 1,
+				"limit": 20,
+				"total": 31
+			},
+			"league": {
+				"season": 2021,
+				"type": "\u5e38\u89c4\u8d5b"
+			},
+			"player": {
+				"first_name": "\u65af\u8482\u82ac",
+				"last_name": "\u5e93\u91cc",
+				"pid": "8ec91366-faea-4196-bbfd-b8fab7434795"
+			},
+			"games": []
+		}
+	}
+}

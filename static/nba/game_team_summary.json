@@ -1,0 +1,73 @@
+{
+	"result": {
+		"status": {
+			"code": 0,
+			"msg": "game team summary"
+		},
+		"timestamp": "Wed Dec 22 17:57:19 +0800 2021",
+		"data": {
+			"home": {
+				"team_name": "\u52c7\u58eb",
+				"tid": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+				"points": 113,
+				"field_goals_made": 46,
+				"field_goals_att": 88,
+				"field_goals_pct": 52.3,
+				"three_points_made": 15,
+				"three_points_att": 37,
+				"three_points_pct": 40.5,
+				"free_throws_made": 6,
+				"free_throws_att": 9,
+				"free_throws_pct": 66.7,
+				"offensive_rebounds": 10,
+				"defensive_rebounds": 32,
+				"rebounds": 42,
+				"assists": 28,
+				"turnovers": 16,
+				"points_off_turnovers": 25,
+				"steals": 12,
+				"blocks": 9,
+				"personal_fouls": 18,
+				"ejections": 0,
+				"fast_break_pts": 18,
+				"points_in_paint": 58,
+				"biggest_lead": 17,
+				"second_chance_pts": 14,
+				"flagrant_fouls": 0,
+				"team_tech_fouls": 0,
+				"foulouts": 0
+			},
+			"away": {
+				"team_name": "\u56fd\u738b",
+				"tid": "583ed0ac-fb46-11e1-82cb-f4ce4684ea4c",
+				"points": 98,
+				"field_goals_made": 37,
+				"field_goals_att": 83,
+				"field_goals_pct": 44.6,
+				"three_points_made": 13,
+				"three_points_att": 32,
+				"three_points_pct": 40.6,
+				"free_throws_made": 11,
+				"free_throws_att": 16,
+				"free_throws_pct": 68.8,
+				"offensive_rebounds": 6,
+				"defensive_rebounds": 31,
+				"rebounds": 37,
+				"assists": 23,
+				"turnovers": 19,
+				"points_off_turnovers": 20,
+				"steals": 10,
+				"blocks": 3,
+				"personal_fouls": 9,
+				"ejections": 0,
+				"fast_break_pts": 4,
+				"points_in_paint": 36,
+				"biggest_lead": 2,
+				"second_chance_pts": 12,
+				"flagrant_fouls": 0,
+				"team_tech_fouls": 0,
+				"foulouts": 0
+			}
+		}
+	}
+}

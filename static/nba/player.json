@@ -1,0 +1,34 @@
+{
+	"result": {
+		"status": {
+			"code": 0,
+			"msg": "player info"
+		},
+		"timestamp": "Mon Dec 20 22:24:17 +0800 2021",
+		"data": {
+			"pid": "8ec91366-faea-4196-bbfd-b8fab7434795",
+			"first_name": "Stephen",
+			"first_name_cn": "\u65af\u8482\u82ac",
+			"last_name": "Curry",
+			"last_name_cn": "\u5e93\u91cc",
+			"primary_position": "\u63a7\u7403\u540e\u536b",
+			"jersey_number": "30",
+			"birthdate": "1988-03-14",
+			"age": 34,
+			"experience": "12",
+			"college": "\u6234\u7ef4\u68ee",
+			"centimeter": 188,
+			"kilo": 83.9,
+			"nation": "\u7f8e\u56fd",
+			"wingspan": "192cm",
+			"reach": "246cm",
+			"salary": "4578",
+			"draft_year": 2009,
+			"draft_round": "1",
+			"draft_pick": "7",
+			"tid": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+			"team_name": "\u52c7\u58eb",
+			"team_market": "\u91d1\u5dde"
+		}
+	}
+}

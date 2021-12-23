@@ -1,0 +1,91 @@
+{
+	"result": {
+		"status": {
+			"code": 0,
+			"msg": "summary best"
+		},
+		"timestamp": "Wed Dec 22 17:59:13 +0800 2021",
+		"data": {
+			"home": {
+				"team_name": "\u52c7\u58eb",
+				"tid": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+				"items": [{
+					"item": "points",
+					"score": 30,
+					"first_name": "\u65af\u8482\u82ac",
+					"last_name": "\u5e93\u91cc",
+					"pid": "8ec91366-faea-4196-bbfd-b8fab7434795",
+					"jersey_number": "30"
+				}, {
+					"item": "assists",
+					"score": 10,
+					"first_name": "\u5fb7\u96f7\u8499\u5fb7",
+					"last_name": "\u683c\u6797",
+					"pid": "5e5099d1-4a58-43f2-8d03-f2ae5dd49337",
+					"jersey_number": "23"
+				}, {
+					"item": "rebounds",
+					"score": 11,
+					"first_name": "\u5fb7\u96f7\u8499\u5fb7",
+					"last_name": "\u683c\u6797",
+					"pid": "5e5099d1-4a58-43f2-8d03-f2ae5dd49337",
+					"jersey_number": "23"
+				}, {
+					"item": "steals",
+					"score": 3,
+					"first_name": "\u52a0\u91cc",
+					"last_name": "\u4f69\u987f\u4e8c\u4e16",
+					"pid": "955fe0fb-3ca2-49c0-9a19-922d8349f13c",
+					"jersey_number": "0"
+				}, {
+					"item": "blocks",
+					"score": 4,
+					"first_name": "\u5965\u6258",
+					"last_name": "\u6ce2\u7279",
+					"pid": "792fdc1e-e833-4777-a372-11e93e457480",
+					"jersey_number": "32"
+				}]
+			},
+			"away": {
+				"team_name": "\u56fd\u738b",
+				"tid": "583ed0ac-fb46-11e1-82cb-f4ce4684ea4c",
+				"items": [{
+					"item": "rebounds",
+					"score": 9,
+					"first_name": "\u7279\u91cc\u65af\u5766",
+					"last_name": "\u6c64\u666e\u68ee",
+					"pid": "335097c3-7919-49d5-80b0-8062d5d3e89c",
+					"jersey_number": "13"
+				}, {
+					"item": "points",
+					"score": 24,
+					"first_name": "\u6cf0\u91cc\u65af",
+					"last_name": "\u54c8\u5229\u4f2f\u987f",
+					"pid": "254e42d7-df01-4c68-9264-bca06c83c2c1",
+					"jersey_number": "0"
+				}, {
+					"item": "assists",
+					"score": 11,
+					"first_name": "\u6cf0\u91cc\u65af",
+					"last_name": "\u54c8\u5229\u4f2f\u987f",
+					"pid": "254e42d7-df01-4c68-9264-bca06c83c2c1",
+					"jersey_number": "0"
+				}, {
+					"item": "steals",
+					"score": 4,
+					"first_name": "\u5df4\u8fea",
+					"last_name": "\u5e0c\u5c14\u5fb7",
+					"pid": "795f46f2-c78d-4f1d-9ee2-4331c1cc8184",
+					"jersey_number": "24"
+				}, {
+					"item": "blocks",
+					"score": 2,
+					"first_name": "\u8fbe\u7c73\u5b89",
+					"last_name": "\u743c\u65af",
+					"pid": "44231f84-c69d-440d-9287-e210d4ce1672",
+					"jersey_number": "30"
+				}]
+			}
+		}
+	}
+}

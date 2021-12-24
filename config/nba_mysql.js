@@ -4,6 +4,27 @@ const team_sql = 'select * from team';
 const player_sql = 'select * from player'
 //球员列表sql
 const player_list_sql = 'select * from player_list'
+//球员列表sql
+const player_data_sql = 'select * from player_data';
+
+/**
+ * 插入player_data信息
+ * @param {*} obj 
+ * @returns 
+ */
+ const player_data_insert=(li,pi,gs)=>{
+  return `insert into player_data
+  (season_type,season,pid,mid,date,time,team_name,score,opp_team_name,opp_tid,opp_score,host,minutes,points,field_goals_made,field_goals_att,field_goals_pct,three_points_made,three_points_att,three_points_pct,free_throws_made,free_throws_att,free_throws_pct,offensive_rebounds,defensive_rebounds,rebounds,assists,turnovers,assists_turnover_ratio,steals,blocks,personal_fouls) VALUES 
+  ("${li.type}","${li.season}","${pi.pid}","${gs.mid}","${gs.date}","${gs.time}","${gs.team_name}","${gs.score}","${gs.opp_team_name}","${gs.opp_tid}","${gs.opp_score}","${gs.host}","${gs.minutes}","${gs.points}","${gs.field_goals_made}","${gs.field_goals_att}","${gs.field_goals_pct}","${gs.three_points_made}","${gs.three_points_att}","${gs.three_points_pct}","${gs.free_throws_made}","${gs.free_throws_att}","${gs.free_throws_pct}","${gs.offensive_rebounds}","${gs.defensive_rebounds}","${gs.rebounds}","${gs.assists}","${gs.turnovers}","${gs.assists_turnover_ratio}","${gs.steals}","${gs.blocks}","${gs.personal_fouls}")`;
+}
+/**
+ * 通过mid,opp_tid,pid查询player_data的数据
+ * @param {*} tid 
+ * @returns 
+ */
+ const player_data_one_sql =(gs,pi)=>{
+  return `select * from player_data where mid='${gs.mid}' and opp_tid = '${gs.opp_tid}' and pid = '${pi.pid}'`;
+}
 /**
  * 通过tid查询team的数据
  * @param {*} tid 
@@ -81,6 +102,9 @@ const team_insert=(obj)=>{
 
 module.exports = {
   player_sql,
+  player_data_sql,
+  player_data_one_sql,
+  player_data_insert,
   player_insert,
   player_one_sql,
   player_list_sql,

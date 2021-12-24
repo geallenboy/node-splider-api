@@ -47,8 +47,6 @@ module.exports ={
       return_result.push(`请求异常`)
       console.log(error)
     }
-   
-    
     ctx.body={
       code: 200,
       data: return_result,

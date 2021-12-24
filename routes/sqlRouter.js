@@ -15,7 +15,7 @@ sqlRouter.get('/sql/nba/play/list/insert',nba_player.nba_play_list_insert);
 //添加球员信息
 sqlRouter.get('/sql/nba/play/insert',nba_player.nba_play_insert);
 //添加球员比赛数据
-// sqlRouter.get('/sql/nba/player/game/data',nba_player.nba_player_game_data);
+sqlRouter.get('/sql/nba/player/game/data',nba_player.nba_player_game_data);
 
 //保存图片
 sqlRouter.get('/sql/nba/player/logo',nba_get_images.nba_player_logo);

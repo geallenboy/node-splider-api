@@ -26,6 +26,7 @@
     "mysql": "^2.15.0",
     "qs": "^6.5.1",
     "request": "^2.83.0",
+    "silly-datetime": "^0.1.2",
     "static-favicon": "~1.0.0"
   },
   "devDependencies": {

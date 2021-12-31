@@ -20,8 +20,5 @@ app.use(koaViews(__dirname + "/views", {
   extension:'ejs'
 }))
 app.use(webRouter.routes()).use(webRouter.allowedMethods())
-app.listen(3002, () => {
-  console.log('Web server started at port 3002!')
-})
 
 module.exports = app

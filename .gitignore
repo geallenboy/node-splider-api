@@ -3,7 +3,7 @@
 .gitee
 .vscode
 .vscode/
-images/
+logs/
 node_modules/
 download/
 

@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "test": "jest",
-    "start": "pm2 start processes.json"
+    "start": "pm2 start processes.json --watch"
   },
   "dependencies": {
     "axios": "^0.19.2",

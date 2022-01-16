@@ -1,0 +1,12 @@
+2022-01-16 21:58:38: 
+  Error: non-error thrown: {"code":500,"data":"网络异常"}
+      at Object.onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/context.js:119:31)
+      at onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/application.js:165:32)
+      at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+2022-01-16 22:11:55: 
+  Error: non-error thrown: {"code":500,"data":"网络异常"}
+      at Object.onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/context.js:119:31)
+      at onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/application.js:165:32)
+      at processTicksAndRejections (internal/process/task_queues.js:95:5)
+

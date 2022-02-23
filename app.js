@@ -16,9 +16,10 @@ app.use(new bodyParser())
 app.use(sqlNbaRouter.routes()).use(sqlNbaRouter.allowedMethods())
 app.use(apiNbaRouter.routes()).use(apiNbaRouter.allowedMethods())
 
-app.use(koaViews(__dirname + "/views", {
+app.use(koaViews("views", {
   extension:'ejs'
 }))
+
 app.use(webRouter.routes()).use(webRouter.allowedMethods())
 
 module.exports = app

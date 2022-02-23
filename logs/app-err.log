@@ -10,3 +10,173 @@
       at onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/application.js:165:32)
       at processTicksAndRejections (internal/process/task_queues.js:95:5)
 
+Error: write EPIPE
+    at process.target._send (internal/child_process.js:841:20)
+    at process.target.send (internal/child_process.js:712:19)
+    at process.send (/usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:51:21)
+    at sendHelper (internal/cluster/utils.js:27:15)
+    at send (internal/cluster/child.js:199:10)
+    at EventEmitter.cluster._getServer (internal/cluster/child.js:98:3)
+    at listenInCluster (net.js:1392:11)
+    at Server.listen (net.js:1465:7)
+    at Application.listen (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/application.js:82:19)
+    at Object.<anonymous> (/Users/sn/Desktop/work/study/node-splider-api/bin/www:6:5)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/usr/local/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+2022-01-25 11:56:41: 
+  Error: non-error thrown: {"code":500,"data":"网络异常"}
+      at Object.onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/context.js:119:31)
+      at onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/application.js:165:32)
+      at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Error: write EPIPE
+    at process.target._send (internal/child_process.js:841:20)
+    at process.target.send (internal/child_process.js:712:19)
+    at process.send (/usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:51:21)
+    at sendHelper (internal/cluster/utils.js:27:15)
+    at send (internal/cluster/child.js:199:10)
+    at EventEmitter.cluster._getServer (internal/cluster/child.js:98:3)
+    at listenInCluster (net.js:1392:11)
+    at Server.listen (net.js:1465:7)
+    at Application.listen (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/application.js:82:19)
+    at Object.<anonymous> (/Users/sn/Desktop/work/study/node-splider-api/bin/www:6:5)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/usr/local/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: write EPIPE
+    at process.target._send (internal/child_process.js:841:20)
+    at process.target.send (internal/child_process.js:712:19)
+    at process.send (/usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:51:21)
+    at sendHelper (internal/cluster/utils.js:27:15)
+    at send (internal/cluster/child.js:199:10)
+    at EventEmitter.cluster._getServer (internal/cluster/child.js:98:3)
+    at listenInCluster (net.js:1392:11)
+    at Server.listen (net.js:1465:7)
+    at Application.listen (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/application.js:82:19)
+    at Object.<anonymous> (/Users/sn/Desktop/work/study/node-splider-api/bin/www:6:5)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/usr/local/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+2022-02-11 14:47:27: 
+  Error: non-error thrown: {"code":500,"data":"网络异常"}
+      at Object.onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/context.js:119:31)
+      at onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/application.js:165:32)
+      at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+2022-02-11 14:47:28: 
+  Error: non-error thrown: {"code":500,"data":"网络异常"}
+      at Object.onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/context.js:119:31)
+      at onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/application.js:165:32)
+      at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+2022-02-11 14:47:36: 
+  Error: non-error thrown: {"code":500,"data":"网络异常"}
+      at Object.onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/context.js:119:31)
+      at onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/application.js:165:32)
+      at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+2022-02-11 14:47:53: 
+  Error: non-error thrown: {"code":500,"data":"网络异常"}
+      at Object.onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/context.js:119:31)
+      at onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/application.js:165:32)
+      at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+2022-02-11 14:48:04: 
+  Error: non-error thrown: {"code":500,"data":"网络异常"}
+      at Object.onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/context.js:119:31)
+      at onerror (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/application.js:165:32)
+      at processTicksAndRejections (internal/process/task_queues.js:95:5)
+
+Error: write EPIPE
+    at process.target._send (internal/child_process.js:841:20)
+    at process.target.send (internal/child_process.js:712:19)
+    at process.send (/usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:51:21)
+    at sendHelper (internal/cluster/utils.js:27:15)
+    at send (internal/cluster/child.js:199:10)
+    at EventEmitter.cluster._getServer (internal/cluster/child.js:98:3)
+    at listenInCluster (net.js:1392:11)
+    at Server.listen (net.js:1465:7)
+    at Application.listen (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/application.js:82:19)
+    at Object.<anonymous> (/Users/sn/Desktop/work/study/node-splider-api/bin/www:6:5)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/usr/local/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+Error: write EPIPE
+    at process.target._send (internal/child_process.js:841:20)
+    at process.target.send (internal/child_process.js:712:19)
+    at process.send (/usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:51:21)
+    at sendHelper (internal/cluster/utils.js:27:15)
+    at send (internal/cluster/child.js:199:10)
+    at EventEmitter.cluster._getServer (internal/cluster/child.js:98:3)
+    at listenInCluster (net.js:1392:11)
+    at Server.listen (net.js:1465:7)
+    at Application.listen (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/application.js:82:19)
+    at Object.<anonymous> (/Users/sn/Desktop/work/study/node-splider-api/bin/www:6:5)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/usr/local/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)
+2022-02-16 17:19:42: 
+  TypeError: ctx.render is not a function
+      at /Users/sn/Desktop/work/study/node-splider-api/routes/web_router.js:5:13
+      at dispatch (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+      at next (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+      at /Users/sn/Desktop/work/study/node-splider-api/node_modules/koa-router/lib/router.js:346:16
+      at dispatch (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+      at /Users/sn/Desktop/work/study/node-splider-api/node_modules/koa-router/node_modules/koa-compose/index.js:36:12
+      at dispatch (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa-router/lib/router.js:351:31)
+      at dispatch (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa-compose/index.js:42:32)
+      at allowedMethods (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa-router/lib/router.js:407:12)
+      at dispatch (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa-compose/index.js:42:32)
+      at dispatch (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa-router/lib/router.js:332:32)
+      at dispatch (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa-compose/index.js:42:32)
+      at allowedMethods (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa-router/lib/router.js:407:12)
+      at dispatch (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa-compose/index.js:42:32)
+      at dispatch (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa-router/lib/router.js:332:32)
+      at dispatch (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa-compose/index.js:42:32)
+
+2022-02-16 17:47:15: 
+  Error: ENOENT: no such file or directory, stat 'views/nba/nba.ejs'
+
+2022-02-16 17:47:16: 
+  Error: ENOENT: no such file or directory, stat 'views/nba/nba.ejs'
+
+2022-02-16 17:47:16: 
+  Error: ENOENT: no such file or directory, stat 'views/nba/nba.ejs'
+
+2022-02-16 17:47:17: 
+  Error: ENOENT: no such file or directory, stat 'views/nba/nba.ejs'
+
+2022-02-16 17:47:17: 
+  Error: ENOENT: no such file or directory, stat 'views/nba/nba.ejs'
+
+2022-02-16 17:47:17: 
+  Error: ENOENT: no such file or directory, stat 'views/nba/nba.ejs'
+
+2022-02-16 17:47:17: 
+  Error: ENOENT: no such file or directory, stat 'views/nba/nba.ejs'
+
+2022-02-16 17:47:17: 
+  Error: ENOENT: no such file or directory, stat 'views/nba/nba.ejs'
+
+2022-02-16 17:47:17: 
+  Error: ENOENT: no such file or directory, stat 'views/nba/nba.ejs'
+
+2022-02-16 17:47:18: 
+  Error: ENOENT: no such file or directory, stat 'views/nba/nba.ejs'
+

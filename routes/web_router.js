@@ -7,7 +7,7 @@ webRouter.get('/',async (ctx)=>{
     title:'index'
   })
 });
-webRouter.get('/web/nba',async (ctx)=>{
+webRouter.get('/nba',async (ctx)=>{
   await ctx.render('nba.ejs',{
     title:'index'
   })

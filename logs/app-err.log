@@ -180,3 +180,20 @@ Error: write EPIPE
 2022-02-16 17:47:18: 
   Error: ENOENT: no such file or directory, stat 'views/nba/nba.ejs'
 
+Error: write EPIPE
+    at process.target._send (internal/child_process.js:841:20)
+    at process.target.send (internal/child_process.js:712:19)
+    at process.send (/usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:51:21)
+    at sendHelper (internal/cluster/utils.js:27:15)
+    at send (internal/cluster/child.js:199:10)
+    at EventEmitter.cluster._getServer (internal/cluster/child.js:98:3)
+    at listenInCluster (net.js:1392:11)
+    at Server.listen (net.js:1465:7)
+    at Application.listen (/Users/sn/Desktop/work/study/node-splider-api/node_modules/koa/lib/application.js:82:19)
+    at Object.<anonymous> (/Users/sn/Desktop/work/study/node-splider-api/bin/www:6:5)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:303:25
+    at wrapper (/usr/local/lib/node_modules/pm2/node_modules/async/internal/once.js:12:16)

@@ -1,0 +1,12 @@
+# PHPStorm
+.idea
+.gitee
+.vscode
+.vscode/
+logs/
+node_modules/
+download/
+
+
+
+

@@ -1,0 +1,608 @@
+2022-02-16 17:25:01: 数据库链接成功-connection success
+2022-02-16 17:25:01: 数据库链接成功-connection success
+2022-02-16 17:25:01: 数据库链接成功-connection success
+2022-02-16 17:25:01: 数据库链接成功-connection success
+2022-02-16 17:25:02:   <-- GET /
+2022-02-16 17:25:02: 222
+2022-02-16 17:25:02:   --> GET / 200 223ms 404b
+2022-02-16 17:25:09:   <-- GET /web/nab
+2022-02-16 17:25:09:   --> GET /web/nab 404 34ms -
+2022-02-16 17:25:35:   <-- GET /web/nab
+2022-02-16 17:25:35:   --> GET /web/nab 404 8ms -
+2022-02-16 17:25:35: 数据库链接成功-connection success
+2022-02-16 17:25:35: 数据库链接成功-connection success
+2022-02-16 17:25:37:   <-- GET /web/nab/
+2022-02-16 17:25:37:   --> GET /web/nab/ 404 6ms -
+2022-02-16 17:25:43: 数据库链接成功-connection success
+2022-02-16 17:25:43: 数据库链接成功-connection success
+2022-02-16 17:25:43: 数据库链接成功-connection success
+2022-02-16 17:25:43: 数据库链接成功-connection success
+2022-02-16 17:27:16: 数据库链接成功-connection success
+2022-02-16 17:27:16: 数据库链接成功-connection success
+2022-02-16 17:27:16: 数据库链接成功-connection success
+2022-02-16 17:27:16: 数据库链接成功-connection success
+2022-02-16 17:27:16:   <-- GET /web/nab
+2022-02-16 17:27:16:   --> GET /web/nab 404 19ms -
+2022-02-16 17:27:18:   <-- GET /web/nab
+2022-02-16 17:27:18:   --> GET /web/nab 404 4ms -
+2022-02-16 17:27:18:   <-- GET /web/nab
+2022-02-16 17:27:18:   --> GET /web/nab 404 7ms -
+2022-02-16 17:27:18:   <-- GET /web/nab
+2022-02-16 17:27:18:   --> GET /web/nab 404 3ms -
+2022-02-16 17:27:19:   <-- GET /web/nab
+2022-02-16 17:27:19:   --> GET /web/nab 404 4ms -
+2022-02-16 17:27:19:   <-- GET /web/nab
+2022-02-16 17:27:19:   --> GET /web/nab 404 3ms -
+2022-02-16 17:27:19:   <-- GET /web/nab
+2022-02-16 17:27:19:   --> GET /web/nab 404 2ms -
+2022-02-16 17:27:19:   <-- GET /web/nab
+2022-02-16 17:27:19:   --> GET /web/nab 404 3ms -
+2022-02-16 17:27:19:   <-- GET /web/nab
+2022-02-16 17:27:19:   --> GET /web/nab 404 3ms -
+2022-02-16 17:27:19:   <-- GET /web/nab
+2022-02-16 17:27:19:   --> GET /web/nab 404 3ms -
+2022-02-16 17:29:25: 数据库链接成功-connection success
+2022-02-16 17:29:25: 数据库链接成功-connection success
+2022-02-16 17:29:25: 数据库链接成功-connection success
+2022-02-16 17:29:25: 数据库链接成功-connection success
+2022-02-16 17:29:26:   <-- GET /
+2022-02-16 17:29:26: 222
+2022-02-16 17:29:26:   --> GET / 200 85ms 404b
+2022-02-16 17:29:27:   <-- GET /web/nab
+2022-02-16 17:29:27:   --> GET /web/nab 404 9ms -
+2022-02-16 17:29:35:   <-- GET /web/nab
+2022-02-16 17:29:35:   --> GET /web/nab 404 13ms -
+2022-02-16 17:31:22: 数据库链接成功-connection success
+2022-02-16 17:31:22: 数据库链接成功-connection success
+2022-02-16 17:31:22: 数据库链接成功-connection success
+2022-02-16 17:31:22: 数据库链接成功-connection success
+2022-02-16 17:31:27: 数据库链接成功-connection success
+2022-02-16 17:31:27: 数据库链接成功-connection success
+2022-02-16 17:31:27: 数据库链接成功-connection success
+2022-02-16 17:31:27: 数据库链接成功-connection success
+2022-02-16 17:31:36: 数据库链接成功-connection success
+2022-02-16 17:31:36: 数据库链接成功-connection success
+2022-02-16 17:31:36: 数据库链接成功-connection success
+2022-02-16 17:31:36: 数据库链接成功-connection success
+2022-02-16 17:31:38:   <-- GET /nab
+2022-02-16 17:31:38:   --> GET /nab 404 21ms -
+2022-02-16 17:31:40:   <-- GET /nab
+2022-02-16 17:31:40:   --> GET /nab 404 4ms -
+2022-02-16 17:31:41:   <-- GET /nab
+2022-02-16 17:31:41:   --> GET /nab 404 3ms -
+2022-02-16 17:31:41:   <-- GET /nab
+2022-02-16 17:31:41:   --> GET /nab 404 5ms -
+2022-02-16 17:31:41:   <-- GET /nab
+2022-02-16 17:31:41:   --> GET /nab 404 4ms -
+2022-02-16 17:31:41:   <-- GET /nab
+2022-02-16 17:31:41:   --> GET /nab 404 3ms -
+2022-02-16 17:31:42:   <-- GET /nab
+2022-02-16 17:31:42:   --> GET /nab 404 4ms -
+2022-02-16 17:31:42:   <-- GET /nab
+2022-02-16 17:31:42:   --> GET /nab 404 3ms -
+2022-02-16 17:31:42:   <-- GET /nab
+2022-02-16 17:31:42:   --> GET /nab 404 4ms -
+2022-02-16 17:31:42:   <-- GET /nab
+2022-02-16 17:31:42:   --> GET /nab 404 3ms -
+2022-02-16 17:31:42:   <-- GET /nab
+2022-02-16 17:31:42:   --> GET /nab 404 2ms -
+2022-02-16 17:31:50: 数据库链接成功-connection success
+2022-02-16 17:31:50: 数据库链接成功-connection success
+2022-02-16 17:31:50:   <-- GET /nab
+2022-02-16 17:31:50: 数据库链接成功-connection success
+2022-02-16 17:31:51:   --> GET /nab 404 86ms -
+2022-02-16 17:31:51: 数据库链接成功-connection success
+2022-02-16 17:31:52:   <-- GET /nab
+2022-02-16 17:31:52:   --> GET /nab 404 8ms -
+2022-02-16 17:32:23: 数据库链接成功-connection success
+2022-02-16 17:32:23: 数据库链接成功-connection success
+2022-02-16 17:32:24:   <-- GET /
+2022-02-16 17:32:24:   --> GET / 404 15ms -
+2022-02-16 17:32:26:   <-- GET /
+2022-02-16 17:32:26:   --> GET / 404 5ms -
+2022-02-16 17:32:26:   <-- GET /
+2022-02-16 17:32:26:   --> GET / 404 4ms -
+2022-02-16 17:32:26:   <-- GET /
+2022-02-16 17:32:26:   --> GET / 404 5ms -
+2022-02-16 17:32:26:   <-- GET /
+2022-02-16 17:32:26:   --> GET / 404 3ms -
+2022-02-16 17:32:26:   <-- GET /
+2022-02-16 17:32:26:   --> GET / 404 3ms -
+2022-02-16 17:32:27:   <-- GET /
+2022-02-16 17:32:27:   --> GET / 404 3ms -
+2022-02-16 17:32:36: 数据库链接成功-connection success
+2022-02-16 17:32:36: 数据库链接成功-connection success
+2022-02-16 17:32:36: 数据库链接成功-connection success
+2022-02-16 17:32:36: 数据库链接成功-connection success
+2022-02-16 17:33:53: Router {
+  opts: {},
+  methods: [
+    'HEAD',   'OPTIONS',
+    'GET',    'PUT',
+    'PATCH',  'POST',
+    'DELETE'
+  ],
+  params: {},
+  stack: [
+    Layer {
+      opts: [Object],
+      name: null,
+      methods: [Array],
+      paramNames: [],
+      stack: [Array],
+      path: '/',
+      regexp: /^(?:\/(?=$))?$/i
+    },
+    Layer {
+      opts: [Object],
+      name: null,
+      methods: [Array],
+      paramNames: [],
+      stack: [Array],
+      path: '/nba',
+      regexp: /^\/nba(?:\/(?=$))?$/i
+    }
+  ]
+} 888
+2022-02-16 17:33:53: Router {
+  opts: {},
+  methods: [
+    'HEAD',   'OPTIONS',
+    'GET',    'PUT',
+    'PATCH',  'POST',
+    'DELETE'
+  ],
+  params: {},
+  stack: [
+    Layer {
+      opts: [Object],
+      name: null,
+      methods: [Array],
+      paramNames: [],
+      stack: [Array],
+      path: '/',
+      regexp: /^(?:\/(?=$))?$/i
+    },
+    Layer {
+      opts: [Object],
+      name: null,
+      methods: [Array],
+      paramNames: [],
+      stack: [Array],
+      path: '/nba',
+      regexp: /^\/nba(?:\/(?=$))?$/i
+    }
+  ]
+} 888
+2022-02-16 17:33:53: 数据库链接成功-connection success
+2022-02-16 17:33:53: 数据库链接成功-connection success
+2022-02-16 17:33:53:   <-- GET /
+2022-02-16 17:33:53: 222
+2022-02-16 17:33:53:   --> GET / 200 37ms 404b
+2022-02-16 17:34:07:   <-- GET /web/nab
+2022-02-16 17:34:07:   --> GET /web/nab 404 62ms -
+2022-02-16 17:34:50: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:34:51: 数据库链接成功-connection success
+2022-02-16 17:34:50: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:34:51: 数据库链接成功-connection success
+2022-02-16 17:34:51: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:34:51: 数据库链接成功-connection success
+2022-02-16 17:34:51: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:34:51: 数据库链接成功-connection success
+2022-02-16 17:34:55:   <-- GET /web/nab
+2022-02-16 17:34:55:   --> GET /web/nab 404 21ms -
+2022-02-16 17:37:13: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:37:13: 数据库链接成功-connection success
+2022-02-16 17:37:13: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:37:13: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:37:13: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:37:13: 数据库链接成功-connection success
+2022-02-16 17:37:13: 数据库链接成功-connection success
+2022-02-16 17:37:13: 数据库链接成功-connection success
+2022-02-16 17:37:14:   <-- GET /
+2022-02-16 17:37:14: 222
+2022-02-16 17:37:14:   --> GET / 200 74ms 404b
+2022-02-16 17:37:16:   <-- GET /web/nab
+2022-02-16 17:37:16:   --> GET /web/nab 404 24ms -
+2022-02-16 17:39:45: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:39:45: 数据库链接成功-connection success
+2022-02-16 17:39:45: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:39:45: 数据库链接成功-connection success
+2022-02-16 17:39:45: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:39:45: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:39:45: 数据库链接成功-connection success
+2022-02-16 17:39:45: 数据库链接成功-connection success
+2022-02-16 17:45:02:   <-- GET /
+2022-02-16 17:45:02: 222
+2022-02-16 17:45:02:   --> GET / 200 31ms 404b
+2022-02-16 17:45:10: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:45:10: 数据库链接成功-connection success
+2022-02-16 17:45:10: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:45:10: 数据库链接成功-connection success
+2022-02-16 17:45:10: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:45:10: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:45:10: 数据库链接成功-connection success
+2022-02-16 17:45:10: 数据库链接成功-connection success
+2022-02-16 17:45:16: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:45:16: 数据库链接成功-connection success
+2022-02-16 17:45:16: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:45:16: 数据库链接成功-connection success
+2022-02-16 17:45:16: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:45:16: [Function: dispatch] {
+  router: Router {
+    opts: {},
+    methods: [
+      'HEAD',   'OPTIONS',
+      'GET',    'PUT',
+      'PATCH',  'POST',
+      'DELETE'
+    ],
+    params: {},
+    stack: [ [Layer], [Layer] ]
+  }
+} 888
+2022-02-16 17:45:16: 数据库链接成功-connection success
+2022-02-16 17:45:16: 数据库链接成功-connection success
+2022-02-16 17:45:25: 数据库链接成功-connection success
+2022-02-16 17:45:25: 数据库链接成功-connection success
+2022-02-16 17:45:25: 数据库链接成功-connection success
+2022-02-16 17:45:25: 数据库链接成功-connection success
+2022-02-16 17:45:47: 数据库链接成功-connection success
+2022-02-16 17:45:48: 数据库链接成功-connection success
+2022-02-16 17:45:48: 数据库链接成功-connection success
+2022-02-16 17:45:48: 数据库链接成功-connection success
+2022-02-16 17:45:50:   <-- GET /nba
+2022-02-16 17:45:50: 33
+2022-02-16 17:45:50:   --> GET /nba 200 59ms 404b
+2022-02-16 17:46:16: 数据库链接成功-connection success
+2022-02-16 17:46:16:   <-- GET /nba
+2022-02-16 17:46:16: 数据库链接成功-connection success
+2022-02-16 17:46:16: 33
+2022-02-16 17:46:16:   --> GET /nba 200 50ms 347b
+2022-02-16 17:46:17: 数据库链接成功-connection success
+2022-02-16 17:46:17: 数据库链接成功-connection success
+2022-02-16 17:46:40: 数据库链接成功-connection success
+2022-02-16 17:46:40: 数据库链接成功-connection success
+2022-02-16 17:46:40: 数据库链接成功-connection success
+2022-02-16 17:46:40: 数据库链接成功-connection success
+2022-02-16 17:46:43:   <-- GET /nba
+2022-02-16 17:46:43:   --> GET /nba 404 27ms -
+2022-02-16 17:46:54: 数据库链接成功-connection success
+2022-02-16 17:46:54: 数据库链接成功-connection success
+2022-02-16 17:46:54: 数据库链接成功-connection success
+2022-02-16 17:46:54: 数据库链接成功-connection success
+2022-02-16 17:46:58: 数据库链接成功-connection success
+2022-02-16 17:46:58: 数据库链接成功-connection success
+2022-02-16 17:46:58: 数据库链接成功-connection success
+2022-02-16 17:46:58: 数据库链接成功-connection success
+2022-02-16 17:47:00:   <-- GET /web/nba
+2022-02-16 17:47:00: 33
+2022-02-16 17:47:00:   --> GET /web/nba 200 45ms 347b
+2022-02-16 17:47:15: 数据库链接成功-connection success
+2022-02-16 17:47:15: 数据库链接成功-connection success
+2022-02-16 17:47:15: 数据库链接成功-connection success
+2022-02-16 17:47:15: 数据库链接成功-connection success
+2022-02-16 17:47:15:   <-- GET /web/nba
+2022-02-16 17:47:15: 33
+2022-02-16 17:47:15:   xxx GET /web/nba 500 18ms -
+2022-02-16 17:47:16:   <-- GET /web/nba
+2022-02-16 17:47:16: 33
+2022-02-16 17:47:16:   xxx GET /web/nba 500 7ms -
+2022-02-16 17:47:16:   <-- GET /web/nba
+2022-02-16 17:47:16: 33
+2022-02-16 17:47:16:   xxx GET /web/nba 500 5ms -
+2022-02-16 17:47:17:   <-- GET /web/nba
+2022-02-16 17:47:17: 33
+2022-02-16 17:47:17:   xxx GET /web/nba 500 6ms -
+2022-02-16 17:47:17:   <-- GET /web/nba
+2022-02-16 17:47:17: 33
+2022-02-16 17:47:17:   xxx GET /web/nba 500 4ms -
+2022-02-16 17:47:17:   <-- GET /web/nba
+2022-02-16 17:47:17: 33
+2022-02-16 17:47:17:   xxx GET /web/nba 500 5ms -
+2022-02-16 17:47:17:   <-- GET /web/nba
+2022-02-16 17:47:17: 33
+2022-02-16 17:47:17:   xxx GET /web/nba 500 4ms -
+2022-02-16 17:47:17:   <-- GET /web/nba
+2022-02-16 17:47:17: 33
+2022-02-16 17:47:17:   xxx GET /web/nba 500 3ms -
+2022-02-16 17:47:17:   <-- GET /web/nba
+2022-02-16 17:47:17: 33
+2022-02-16 17:47:17:   xxx GET /web/nba 500 4ms -
+2022-02-16 17:47:18:   <-- GET /web/nba
+2022-02-16 17:47:18: 33
+2022-02-16 17:47:18:   xxx GET /web/nba 500 3ms -
+2022-02-16 17:47:27: 数据库链接成功-connection success
+2022-02-16 17:47:27: 数据库链接成功-connection success
+2022-02-16 17:47:27: 数据库链接成功-connection success
+2022-02-16 17:47:27: 数据库链接成功-connection success
+2022-02-16 17:47:34:   <-- GET /web/nba
+2022-02-16 17:47:34: 数据库链接成功-connection success
+2022-02-16 17:47:34: 数据库链接成功-connection success
+2022-02-16 17:47:34: 33
+2022-02-16 17:47:34:   --> GET /web/nba 200 164ms 347b
+2022-02-16 17:47:34: 数据库链接成功-connection success
+2022-02-16 17:47:34: 数据库链接成功-connection success
+2022-02-16 17:47:35:   <-- GET /web/nba
+2022-02-16 17:47:35: 33
+2022-02-16 17:47:35:   --> GET /web/nba 200 38ms 347b
+2022-02-16 17:47:45: 数据库链接成功-connection success
+2022-02-16 17:47:45: 数据库链接成功-connection success
+2022-02-16 17:49:54:   <-- GET /
+2022-02-16 17:49:54: 222
+2022-02-16 17:49:54:   --> GET / 200 86ms 404b
+2022-02-16 17:50:14:   <-- GET /
+2022-02-16 17:50:14: 222
+2022-02-16 17:50:14:   --> GET / 200 39ms 404b
+2022-02-16 17:59:53: 数据库链接成功-connection success
+2022-02-16 17:59:53: 数据库链接成功-connection success
+2022-02-16 17:59:53: 数据库链接成功-connection success
+2022-02-16 17:59:53: 数据库链接成功-connection success
+2022-02-28 15:03:40: 数据库链接成功-connection success
+2022-02-28 15:03:40: 数据库链接成功-connection success
+2022-02-28 15:03:40: 数据库链接成功-connection success
+2022-02-28 15:03:40: 数据库链接成功-connection success
+2022-02-28 15:03:58:   <-- GET /
+2022-02-28 15:03:58:   --> GET / 200 23ms 404b
+2022-02-28 15:10:35:   <-- GET /web/nab
+2022-02-28 15:10:35:   --> GET /web/nab 404 24ms -
+2022-02-28 15:11:21:   <-- GET /web/nab
+2022-02-28 15:11:21:   --> GET /web/nab 404 13ms -
+2022-02-28 15:11:21:   <-- GET /favicon.ico
+2022-02-28 15:11:21:   --> GET /favicon.ico 404 9ms -
+2022-02-28 15:11:21: 数据库链接成功-connection success
+2022-02-28 15:11:21: 数据库链接成功-connection success
+2022-02-28 15:11:22:   <-- GET /web/nab
+2022-02-28 15:11:22:   --> GET /web/nab 404 3ms -
+2022-02-28 15:11:22:   <-- GET /web/nab
+2022-02-28 15:11:22:   --> GET /web/nab 404 3ms -
+2022-02-28 15:11:22:   <-- GET /web/nab
+2022-02-28 15:11:22:   --> GET /web/nab 404 2ms -
+2022-02-28 15:11:22:   <-- GET /web/nab
+2022-02-28 15:11:22:   --> GET /web/nab 404 1ms -
+2022-02-28 15:11:23:   <-- GET /web/nab
+2022-02-28 15:11:23:   --> GET /web/nab 404 1ms -
+2022-02-28 15:11:23:   <-- GET /web/nab
+2022-02-28 15:11:23:   --> GET /web/nab 404 2ms -
+2022-02-28 15:11:23:   <-- GET /web/nab
+2022-02-28 15:11:23:   --> GET /web/nab 404 3ms -
+2022-02-28 15:11:34: 数据库链接成功-connection success
+2022-02-28 15:11:34: 数据库链接成功-connection success
+2022-02-28 15:11:34: 数据库链接成功-connection success
+2022-02-28 15:11:34: 数据库链接成功-connection success
+2022-02-28 15:11:37:   <-- GET /nab
+2022-02-28 15:11:37:   --> GET /nab 404 27ms -
+2022-02-28 15:11:48: 数据库链接成功-connection success
+2022-02-28 15:11:49: 数据库链接成功-connection success
+2022-02-28 15:11:49: 数据库链接成功-connection success
+2022-02-28 15:11:49: 数据库链接成功-connection success
+2022-02-28 15:11:53:   <-- GET /nab
+2022-02-28 15:11:53:   --> GET /nab 404 33ms -

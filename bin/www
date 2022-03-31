@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+var debug = require('debug')('my-application')
+const app = require('../app')
+
+
+app.listen('3001', function () {
+  debug('Express server listening on port 3001')
+})

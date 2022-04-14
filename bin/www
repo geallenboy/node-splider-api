@@ -2,7 +2,6 @@
 var debug = require('debug')('my-application')
 const app = require('../app')
 
-
-app.listen('3001', function () {
+app.listen('3003', function () {
   debug('Express server listening on port 3001')
 })

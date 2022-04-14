@@ -1,608 +1,1780 @@
-2022-02-16 17:25:01: 数据库链接成功-connection success
-2022-02-16 17:25:01: 数据库链接成功-connection success
-2022-02-16 17:25:01: 数据库链接成功-connection success
-2022-02-16 17:25:01: 数据库链接成功-connection success
-2022-02-16 17:25:02:   <-- GET /
-2022-02-16 17:25:02: 222
-2022-02-16 17:25:02:   --> GET / 200 223ms 404b
-2022-02-16 17:25:09:   <-- GET /web/nab
-2022-02-16 17:25:09:   --> GET /web/nab 404 34ms -
-2022-02-16 17:25:35:   <-- GET /web/nab
-2022-02-16 17:25:35:   --> GET /web/nab 404 8ms -
-2022-02-16 17:25:35: 数据库链接成功-connection success
-2022-02-16 17:25:35: 数据库链接成功-connection success
-2022-02-16 17:25:37:   <-- GET /web/nab/
-2022-02-16 17:25:37:   --> GET /web/nab/ 404 6ms -
-2022-02-16 17:25:43: 数据库链接成功-connection success
-2022-02-16 17:25:43: 数据库链接成功-connection success
-2022-02-16 17:25:43: 数据库链接成功-connection success
-2022-02-16 17:25:43: 数据库链接成功-connection success
-2022-02-16 17:27:16: 数据库链接成功-connection success
-2022-02-16 17:27:16: 数据库链接成功-connection success
-2022-02-16 17:27:16: 数据库链接成功-connection success
-2022-02-16 17:27:16: 数据库链接成功-connection success
-2022-02-16 17:27:16:   <-- GET /web/nab
-2022-02-16 17:27:16:   --> GET /web/nab 404 19ms -
-2022-02-16 17:27:18:   <-- GET /web/nab
-2022-02-16 17:27:18:   --> GET /web/nab 404 4ms -
-2022-02-16 17:27:18:   <-- GET /web/nab
-2022-02-16 17:27:18:   --> GET /web/nab 404 7ms -
-2022-02-16 17:27:18:   <-- GET /web/nab
-2022-02-16 17:27:18:   --> GET /web/nab 404 3ms -
-2022-02-16 17:27:19:   <-- GET /web/nab
-2022-02-16 17:27:19:   --> GET /web/nab 404 4ms -
-2022-02-16 17:27:19:   <-- GET /web/nab
-2022-02-16 17:27:19:   --> GET /web/nab 404 3ms -
-2022-02-16 17:27:19:   <-- GET /web/nab
-2022-02-16 17:27:19:   --> GET /web/nab 404 2ms -
-2022-02-16 17:27:19:   <-- GET /web/nab
-2022-02-16 17:27:19:   --> GET /web/nab 404 3ms -
-2022-02-16 17:27:19:   <-- GET /web/nab
-2022-02-16 17:27:19:   --> GET /web/nab 404 3ms -
-2022-02-16 17:27:19:   <-- GET /web/nab
-2022-02-16 17:27:19:   --> GET /web/nab 404 3ms -
-2022-02-16 17:29:25: 数据库链接成功-connection success
-2022-02-16 17:29:25: 数据库链接成功-connection success
-2022-02-16 17:29:25: 数据库链接成功-connection success
-2022-02-16 17:29:25: 数据库链接成功-connection success
-2022-02-16 17:29:26:   <-- GET /
-2022-02-16 17:29:26: 222
-2022-02-16 17:29:26:   --> GET / 200 85ms 404b
-2022-02-16 17:29:27:   <-- GET /web/nab
-2022-02-16 17:29:27:   --> GET /web/nab 404 9ms -
-2022-02-16 17:29:35:   <-- GET /web/nab
-2022-02-16 17:29:35:   --> GET /web/nab 404 13ms -
-2022-02-16 17:31:22: 数据库链接成功-connection success
-2022-02-16 17:31:22: 数据库链接成功-connection success
-2022-02-16 17:31:22: 数据库链接成功-connection success
-2022-02-16 17:31:22: 数据库链接成功-connection success
-2022-02-16 17:31:27: 数据库链接成功-connection success
-2022-02-16 17:31:27: 数据库链接成功-connection success
-2022-02-16 17:31:27: 数据库链接成功-connection success
-2022-02-16 17:31:27: 数据库链接成功-connection success
-2022-02-16 17:31:36: 数据库链接成功-connection success
-2022-02-16 17:31:36: 数据库链接成功-connection success
-2022-02-16 17:31:36: 数据库链接成功-connection success
-2022-02-16 17:31:36: 数据库链接成功-connection success
-2022-02-16 17:31:38:   <-- GET /nab
-2022-02-16 17:31:38:   --> GET /nab 404 21ms -
-2022-02-16 17:31:40:   <-- GET /nab
-2022-02-16 17:31:40:   --> GET /nab 404 4ms -
-2022-02-16 17:31:41:   <-- GET /nab
-2022-02-16 17:31:41:   --> GET /nab 404 3ms -
-2022-02-16 17:31:41:   <-- GET /nab
-2022-02-16 17:31:41:   --> GET /nab 404 5ms -
-2022-02-16 17:31:41:   <-- GET /nab
-2022-02-16 17:31:41:   --> GET /nab 404 4ms -
-2022-02-16 17:31:41:   <-- GET /nab
-2022-02-16 17:31:41:   --> GET /nab 404 3ms -
-2022-02-16 17:31:42:   <-- GET /nab
-2022-02-16 17:31:42:   --> GET /nab 404 4ms -
-2022-02-16 17:31:42:   <-- GET /nab
-2022-02-16 17:31:42:   --> GET /nab 404 3ms -
-2022-02-16 17:31:42:   <-- GET /nab
-2022-02-16 17:31:42:   --> GET /nab 404 4ms -
-2022-02-16 17:31:42:   <-- GET /nab
-2022-02-16 17:31:42:   --> GET /nab 404 3ms -
-2022-02-16 17:31:42:   <-- GET /nab
-2022-02-16 17:31:42:   --> GET /nab 404 2ms -
-2022-02-16 17:31:50: 数据库链接成功-connection success
-2022-02-16 17:31:50: 数据库链接成功-connection success
-2022-02-16 17:31:50:   <-- GET /nab
-2022-02-16 17:31:50: 数据库链接成功-connection success
-2022-02-16 17:31:51:   --> GET /nab 404 86ms -
-2022-02-16 17:31:51: 数据库链接成功-connection success
-2022-02-16 17:31:52:   <-- GET /nab
-2022-02-16 17:31:52:   --> GET /nab 404 8ms -
-2022-02-16 17:32:23: 数据库链接成功-connection success
-2022-02-16 17:32:23: 数据库链接成功-connection success
-2022-02-16 17:32:24:   <-- GET /
-2022-02-16 17:32:24:   --> GET / 404 15ms -
-2022-02-16 17:32:26:   <-- GET /
-2022-02-16 17:32:26:   --> GET / 404 5ms -
-2022-02-16 17:32:26:   <-- GET /
-2022-02-16 17:32:26:   --> GET / 404 4ms -
-2022-02-16 17:32:26:   <-- GET /
-2022-02-16 17:32:26:   --> GET / 404 5ms -
-2022-02-16 17:32:26:   <-- GET /
-2022-02-16 17:32:26:   --> GET / 404 3ms -
-2022-02-16 17:32:26:   <-- GET /
-2022-02-16 17:32:26:   --> GET / 404 3ms -
-2022-02-16 17:32:27:   <-- GET /
-2022-02-16 17:32:27:   --> GET / 404 3ms -
-2022-02-16 17:32:36: 数据库链接成功-connection success
-2022-02-16 17:32:36: 数据库链接成功-connection success
-2022-02-16 17:32:36: 数据库链接成功-connection success
-2022-02-16 17:32:36: 数据库链接成功-connection success
-2022-02-16 17:33:53: Router {
-  opts: {},
-  methods: [
-    'HEAD',   'OPTIONS',
-    'GET',    'PUT',
-    'PATCH',  'POST',
-    'DELETE'
-  ],
-  params: {},
-  stack: [
-    Layer {
-      opts: [Object],
-      name: null,
-      methods: [Array],
-      paramNames: [],
-      stack: [Array],
-      path: '/',
-      regexp: /^(?:\/(?=$))?$/i
-    },
-    Layer {
-      opts: [Object],
-      name: null,
-      methods: [Array],
-      paramNames: [],
-      stack: [Array],
-      path: '/nba',
-      regexp: /^\/nba(?:\/(?=$))?$/i
+2022-04-13 16:58:18: 数据库链接成功-connection success
+2022-04-13 16:58:18: 数据库链接成功-connection success
+2022-04-13 16:58:18: 数据库链接成功-connection success
+2022-04-13 16:58:18: 数据库链接成功-connection success
+2022-04-13 17:00:02: 数据库链接成功-connection success
+2022-04-13 17:00:02: 数据库链接成功-connection success
+2022-04-13 17:00:02: 数据库链接成功-connection success
+2022-04-13 17:00:02: 数据库链接成功-connection success
+2022-04-13 17:00:08: 数据库链接成功-connection success
+2022-04-13 17:00:08: 数据库链接成功-connection success
+2022-04-13 17:00:08: 数据库链接成功-connection success
+2022-04-13 17:00:08: 数据库链接成功-connection success
+2022-04-13 17:00:14:   <-- GET /
+2022-04-13 17:00:15: {
+  request: {
+    method: 'GET',
+    url: '/',
+    header: {
+      host: 'localhost:3001',
+      connection: 'keep-alive',
+      'cache-control': 'max-age=0',
+      'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"',
+      'sec-ch-ua-mobile': '?0',
+      'sec-ch-ua-platform': '"macOS"',
+      'upgrade-insecure-requests': '1',
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36',
+      accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+      'sec-fetch-site': 'none',
+      'sec-fetch-mode': 'navigate',
+      'sec-fetch-user': '?1',
+      'sec-fetch-dest': 'document',
+      'accept-encoding': 'gzip, deflate, br',
+      'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+      cookie: 'Idea-955fb2e9=29438c91-db76-46d7-9b23-6d8be8ccb73f; _snma=1%7C159559892909281248%7C1595598929092%7C1648609866472%7C1648609898768%7C93%7C28'
     }
-  ]
-} 888
-2022-02-16 17:33:53: Router {
-  opts: {},
-  methods: [
-    'HEAD',   'OPTIONS',
-    'GET',    'PUT',
-    'PATCH',  'POST',
-    'DELETE'
-  ],
-  params: {},
-  stack: [
-    Layer {
-      opts: [Object],
-      name: null,
-      methods: [Array],
-      paramNames: [],
-      stack: [Array],
-      path: '/',
-      regexp: /^(?:\/(?=$))?$/i
-    },
-    Layer {
-      opts: [Object],
-      name: null,
-      methods: [Array],
-      paramNames: [],
-      stack: [Array],
-      path: '/nba',
-      regexp: /^\/nba(?:\/(?=$))?$/i
+  },
+  response: {
+    status: 404,
+    message: 'Not Found',
+    header: [Object: null prototype] {
+      vary: 'Origin',
+      'access-control-allow-origin': '*'
     }
-  ]
+  },
+  app: { subdomainOffset: 2, proxy: false, env: 'production' },
+  originalUrl: '/',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>'
 } 888
-2022-02-16 17:33:53: 数据库链接成功-connection success
-2022-02-16 17:33:53: 数据库链接成功-connection success
-2022-02-16 17:33:53:   <-- GET /
-2022-02-16 17:33:53: 222
-2022-02-16 17:33:53:   --> GET / 200 37ms 404b
-2022-02-16 17:34:07:   <-- GET /web/nab
-2022-02-16 17:34:07:   --> GET /web/nab 404 62ms -
-2022-02-16 17:34:50: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:34:51: 数据库链接成功-connection success
-2022-02-16 17:34:50: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:34:51: 数据库链接成功-connection success
-2022-02-16 17:34:51: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:34:51: 数据库链接成功-connection success
-2022-02-16 17:34:51: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:34:51: 数据库链接成功-connection success
-2022-02-16 17:34:55:   <-- GET /web/nab
-2022-02-16 17:34:55:   --> GET /web/nab 404 21ms -
-2022-02-16 17:37:13: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:37:13: 数据库链接成功-connection success
-2022-02-16 17:37:13: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:37:13: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:37:13: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:37:13: 数据库链接成功-connection success
-2022-02-16 17:37:13: 数据库链接成功-connection success
-2022-02-16 17:37:13: 数据库链接成功-connection success
-2022-02-16 17:37:14:   <-- GET /
-2022-02-16 17:37:14: 222
-2022-02-16 17:37:14:   --> GET / 200 74ms 404b
-2022-02-16 17:37:16:   <-- GET /web/nab
-2022-02-16 17:37:16:   --> GET /web/nab 404 24ms -
-2022-02-16 17:39:45: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:39:45: 数据库链接成功-connection success
-2022-02-16 17:39:45: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:39:45: 数据库链接成功-connection success
-2022-02-16 17:39:45: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:39:45: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:39:45: 数据库链接成功-connection success
-2022-02-16 17:39:45: 数据库链接成功-connection success
-2022-02-16 17:45:02:   <-- GET /
-2022-02-16 17:45:02: 222
-2022-02-16 17:45:02:   --> GET / 200 31ms 404b
-2022-02-16 17:45:10: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:45:10: 数据库链接成功-connection success
-2022-02-16 17:45:10: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:45:10: 数据库链接成功-connection success
-2022-02-16 17:45:10: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:45:10: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:45:10: 数据库链接成功-connection success
-2022-02-16 17:45:10: 数据库链接成功-connection success
-2022-02-16 17:45:16: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:45:16: 数据库链接成功-connection success
-2022-02-16 17:45:16: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:45:16: 数据库链接成功-connection success
-2022-02-16 17:45:16: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:45:16: [Function: dispatch] {
-  router: Router {
-    opts: {},
-    methods: [
-      'HEAD',   'OPTIONS',
-      'GET',    'PUT',
-      'PATCH',  'POST',
-      'DELETE'
-    ],
-    params: {},
-    stack: [ [Layer], [Layer] ]
-  }
-} 888
-2022-02-16 17:45:16: 数据库链接成功-connection success
-2022-02-16 17:45:16: 数据库链接成功-connection success
-2022-02-16 17:45:25: 数据库链接成功-connection success
-2022-02-16 17:45:25: 数据库链接成功-connection success
-2022-02-16 17:45:25: 数据库链接成功-connection success
-2022-02-16 17:45:25: 数据库链接成功-connection success
-2022-02-16 17:45:47: 数据库链接成功-connection success
-2022-02-16 17:45:48: 数据库链接成功-connection success
-2022-02-16 17:45:48: 数据库链接成功-connection success
-2022-02-16 17:45:48: 数据库链接成功-connection success
-2022-02-16 17:45:50:   <-- GET /nba
-2022-02-16 17:45:50: 33
-2022-02-16 17:45:50:   --> GET /nba 200 59ms 404b
-2022-02-16 17:46:16: 数据库链接成功-connection success
-2022-02-16 17:46:16:   <-- GET /nba
-2022-02-16 17:46:16: 数据库链接成功-connection success
-2022-02-16 17:46:16: 33
-2022-02-16 17:46:16:   --> GET /nba 200 50ms 347b
-2022-02-16 17:46:17: 数据库链接成功-connection success
-2022-02-16 17:46:17: 数据库链接成功-connection success
-2022-02-16 17:46:40: 数据库链接成功-connection success
-2022-02-16 17:46:40: 数据库链接成功-connection success
-2022-02-16 17:46:40: 数据库链接成功-connection success
-2022-02-16 17:46:40: 数据库链接成功-connection success
-2022-02-16 17:46:43:   <-- GET /nba
-2022-02-16 17:46:43:   --> GET /nba 404 27ms -
-2022-02-16 17:46:54: 数据库链接成功-connection success
-2022-02-16 17:46:54: 数据库链接成功-connection success
-2022-02-16 17:46:54: 数据库链接成功-connection success
-2022-02-16 17:46:54: 数据库链接成功-connection success
-2022-02-16 17:46:58: 数据库链接成功-connection success
-2022-02-16 17:46:58: 数据库链接成功-connection success
-2022-02-16 17:46:58: 数据库链接成功-connection success
-2022-02-16 17:46:58: 数据库链接成功-connection success
-2022-02-16 17:47:00:   <-- GET /web/nba
-2022-02-16 17:47:00: 33
-2022-02-16 17:47:00:   --> GET /web/nba 200 45ms 347b
-2022-02-16 17:47:15: 数据库链接成功-connection success
-2022-02-16 17:47:15: 数据库链接成功-connection success
-2022-02-16 17:47:15: 数据库链接成功-connection success
-2022-02-16 17:47:15: 数据库链接成功-connection success
-2022-02-16 17:47:15:   <-- GET /web/nba
-2022-02-16 17:47:15: 33
-2022-02-16 17:47:15:   xxx GET /web/nba 500 18ms -
-2022-02-16 17:47:16:   <-- GET /web/nba
-2022-02-16 17:47:16: 33
-2022-02-16 17:47:16:   xxx GET /web/nba 500 7ms -
-2022-02-16 17:47:16:   <-- GET /web/nba
-2022-02-16 17:47:16: 33
-2022-02-16 17:47:16:   xxx GET /web/nba 500 5ms -
-2022-02-16 17:47:17:   <-- GET /web/nba
-2022-02-16 17:47:17: 33
-2022-02-16 17:47:17:   xxx GET /web/nba 500 6ms -
-2022-02-16 17:47:17:   <-- GET /web/nba
-2022-02-16 17:47:17: 33
-2022-02-16 17:47:17:   xxx GET /web/nba 500 4ms -
-2022-02-16 17:47:17:   <-- GET /web/nba
-2022-02-16 17:47:17: 33
-2022-02-16 17:47:17:   xxx GET /web/nba 500 5ms -
-2022-02-16 17:47:17:   <-- GET /web/nba
-2022-02-16 17:47:17: 33
-2022-02-16 17:47:17:   xxx GET /web/nba 500 4ms -
-2022-02-16 17:47:17:   <-- GET /web/nba
-2022-02-16 17:47:17: 33
-2022-02-16 17:47:17:   xxx GET /web/nba 500 3ms -
-2022-02-16 17:47:17:   <-- GET /web/nba
-2022-02-16 17:47:17: 33
-2022-02-16 17:47:17:   xxx GET /web/nba 500 4ms -
-2022-02-16 17:47:18:   <-- GET /web/nba
-2022-02-16 17:47:18: 33
-2022-02-16 17:47:18:   xxx GET /web/nba 500 3ms -
-2022-02-16 17:47:27: 数据库链接成功-connection success
-2022-02-16 17:47:27: 数据库链接成功-connection success
-2022-02-16 17:47:27: 数据库链接成功-connection success
-2022-02-16 17:47:27: 数据库链接成功-connection success
-2022-02-16 17:47:34:   <-- GET /web/nba
-2022-02-16 17:47:34: 数据库链接成功-connection success
-2022-02-16 17:47:34: 数据库链接成功-connection success
-2022-02-16 17:47:34: 33
-2022-02-16 17:47:34:   --> GET /web/nba 200 164ms 347b
-2022-02-16 17:47:34: 数据库链接成功-connection success
-2022-02-16 17:47:34: 数据库链接成功-connection success
-2022-02-16 17:47:35:   <-- GET /web/nba
-2022-02-16 17:47:35: 33
-2022-02-16 17:47:35:   --> GET /web/nba 200 38ms 347b
-2022-02-16 17:47:45: 数据库链接成功-connection success
-2022-02-16 17:47:45: 数据库链接成功-connection success
-2022-02-16 17:49:54:   <-- GET /
-2022-02-16 17:49:54: 222
-2022-02-16 17:49:54:   --> GET / 200 86ms 404b
-2022-02-16 17:50:14:   <-- GET /
-2022-02-16 17:50:14: 222
-2022-02-16 17:50:14:   --> GET / 200 39ms 404b
-2022-02-16 17:59:53: 数据库链接成功-connection success
-2022-02-16 17:59:53: 数据库链接成功-connection success
-2022-02-16 17:59:53: 数据库链接成功-connection success
-2022-02-16 17:59:53: 数据库链接成功-connection success
-2022-02-28 15:03:40: 数据库链接成功-connection success
-2022-02-28 15:03:40: 数据库链接成功-connection success
-2022-02-28 15:03:40: 数据库链接成功-connection success
-2022-02-28 15:03:40: 数据库链接成功-connection success
-2022-02-28 15:03:58:   <-- GET /
-2022-02-28 15:03:58:   --> GET / 200 23ms 404b
-2022-02-28 15:10:35:   <-- GET /web/nab
-2022-02-28 15:10:35:   --> GET /web/nab 404 24ms -
-2022-02-28 15:11:21:   <-- GET /web/nab
-2022-02-28 15:11:21:   --> GET /web/nab 404 13ms -
-2022-02-28 15:11:21:   <-- GET /favicon.ico
-2022-02-28 15:11:21:   --> GET /favicon.ico 404 9ms -
-2022-02-28 15:11:21: 数据库链接成功-connection success
-2022-02-28 15:11:21: 数据库链接成功-connection success
-2022-02-28 15:11:22:   <-- GET /web/nab
-2022-02-28 15:11:22:   --> GET /web/nab 404 3ms -
-2022-02-28 15:11:22:   <-- GET /web/nab
-2022-02-28 15:11:22:   --> GET /web/nab 404 3ms -
-2022-02-28 15:11:22:   <-- GET /web/nab
-2022-02-28 15:11:22:   --> GET /web/nab 404 2ms -
-2022-02-28 15:11:22:   <-- GET /web/nab
-2022-02-28 15:11:22:   --> GET /web/nab 404 1ms -
-2022-02-28 15:11:23:   <-- GET /web/nab
-2022-02-28 15:11:23:   --> GET /web/nab 404 1ms -
-2022-02-28 15:11:23:   <-- GET /web/nab
-2022-02-28 15:11:23:   --> GET /web/nab 404 2ms -
-2022-02-28 15:11:23:   <-- GET /web/nab
-2022-02-28 15:11:23:   --> GET /web/nab 404 3ms -
-2022-02-28 15:11:34: 数据库链接成功-connection success
-2022-02-28 15:11:34: 数据库链接成功-connection success
-2022-02-28 15:11:34: 数据库链接成功-connection success
-2022-02-28 15:11:34: 数据库链接成功-connection success
-2022-02-28 15:11:37:   <-- GET /nab
-2022-02-28 15:11:37:   --> GET /nab 404 27ms -
-2022-02-28 15:11:48: 数据库链接成功-connection success
-2022-02-28 15:11:49: 数据库链接成功-connection success
-2022-02-28 15:11:49: 数据库链接成功-connection success
-2022-02-28 15:11:49: 数据库链接成功-connection success
-2022-02-28 15:11:53:   <-- GET /nab
-2022-02-28 15:11:53:   --> GET /nab 404 33ms -
+2022-04-13 17:00:15:   --> GET / 200 52ms 393b
+2022-04-13 17:00:42: 数据库链接成功-connection success
+2022-04-13 17:00:42: 数据库链接成功-connection success
+2022-04-13 17:00:42: 数据库链接成功-connection success
+2022-04-13 17:00:42: 数据库链接成功-connection success
+2022-04-13 17:00:43:   <-- GET /
+2022-04-13 17:00:43: / 888
+2022-04-13 17:00:43:   --> GET / 200 82ms 393b
+2022-04-13 17:01:26: 数据库链接成功-connection success
+2022-04-13 17:01:26: 数据库链接成功-connection success
+2022-04-13 17:01:26: 数据库链接成功-connection success
+2022-04-13 17:01:26: 数据库链接成功-connection success
+2022-04-13 17:01:50: 数据库链接成功-connection success
+2022-04-13 17:01:50: 数据库链接成功-connection success
+2022-04-13 17:01:50: 数据库链接成功-connection success
+2022-04-13 17:01:50: 数据库链接成功-connection success
+2022-04-13 17:01:51:   <-- GET /
+2022-04-13 17:01:51:   --> GET / 200 35ms 393b
+2022-04-13 17:01:54:   <-- GET /nab
+2022-04-13 17:01:54:   --> GET /nab 404 6ms -
+2022-04-13 17:02:37: 数据库链接成功-connection success
+2022-04-13 17:02:37:   <-- GET /
+2022-04-13 17:02:38: 数据库链接成功-connection success
+2022-04-13 17:02:37: {
+  request: {
+    method: 'GET',
+    url: '/',
+    header: {
+      host: 'localhost:3001',
+      connection: 'keep-alive',
+      'cache-control': 'max-age=0',
+      'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"',
+      'sec-ch-ua-mobile': '?0',
+      'sec-ch-ua-platform': '"macOS"',
+      'upgrade-insecure-requests': '1',
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36',
+      accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+      'sec-fetch-site': 'none',
+      'sec-fetch-mode': 'navigate',
+      'sec-fetch-user': '?1',
+      'sec-fetch-dest': 'document',
+      'accept-encoding': 'gzip, deflate, br',
+      'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+      cookie: 'Idea-955fb2e9=29438c91-db76-46d7-9b23-6d8be8ccb73f; _snma=1%7C159559892909281248%7C1595598929092%7C1648609866472%7C1648609898768%7C93%7C28'
+    }
+  },
+  response: {
+    status: 404,
+    message: 'Not Found',
+    header: [Object: null prototype] {
+      vary: 'Origin',
+      'access-control-allow-origin': '*'
+    }
+  },
+  app: { subdomainOffset: 2, proxy: false, env: 'production' },
+  originalUrl: '/',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>'
+} home
+2022-04-13 17:02:38:   --> GET / 200 342ms 393b
+2022-04-13 17:02:38: 数据库链接成功-connection success
+2022-04-13 17:02:38: 数据库链接成功-connection success
+2022-04-13 17:02:43:   <-- GET /nab
+2022-04-13 17:02:43:   --> GET /nab 404 14ms -
+2022-04-13 17:03:01:   <-- GET /nab
+2022-04-13 17:03:01:   --> GET /nab 404 11ms -
+2022-04-13 17:03:01: 数据库链接成功-connection success
+2022-04-13 17:03:01: 数据库链接成功-connection success
+2022-04-13 17:03:03:   <-- GET /nab
+2022-04-13 17:03:03:   --> GET /nab 404 5ms -
+2022-04-13 17:03:07:   <-- GET /
+2022-04-13 17:03:07: {
+  request: {
+    method: 'GET',
+    url: '/',
+    header: {
+      host: 'localhost:3001',
+      connection: 'keep-alive',
+      'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"',
+      'sec-ch-ua-mobile': '?0',
+      'sec-ch-ua-platform': '"macOS"',
+      'upgrade-insecure-requests': '1',
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36',
+      accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+      'sec-fetch-site': 'none',
+      'sec-fetch-mode': 'navigate',
+      'sec-fetch-user': '?1',
+      'sec-fetch-dest': 'document',
+      'accept-encoding': 'gzip, deflate, br',
+      'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+      cookie: 'Idea-955fb2e9=29438c91-db76-46d7-9b23-6d8be8ccb73f; _snma=1%7C159559892909281248%7C1595598929092%7C1648609866472%7C1648609898768%7C93%7C28'
+    }
+  },
+  response: {
+    status: 404,
+    message: 'Not Found',
+    header: [Object: null prototype] {
+      vary: 'Origin',
+      'access-control-allow-origin': '*'
+    }
+  },
+  app: { subdomainOffset: 2, proxy: false, env: 'production' },
+  originalUrl: '/',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>'
+} home
+2022-04-13 17:03:07:   --> GET / 200 64ms 393b
+2022-04-13 17:03:35:   <-- GET /nab
+2022-04-13 17:03:35:   --> GET /nab 404 16ms -
+2022-04-13 17:04:05: 数据库链接成功-connection success
+2022-04-13 17:04:05: 数据库链接成功-connection success
+2022-04-13 17:04:05: 数据库链接成功-connection success
+2022-04-13 17:04:05: 数据库链接成功-connection success
+2022-04-13 17:04:06:   <-- GET /
+2022-04-13 17:04:06: {
+  request: {
+    method: 'GET',
+    url: '/',
+    header: {
+      host: 'localhost:3001',
+      connection: 'keep-alive',
+      'cache-control': 'max-age=0',
+      'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"',
+      'sec-ch-ua-mobile': '?0',
+      'sec-ch-ua-platform': '"macOS"',
+      'upgrade-insecure-requests': '1',
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36',
+      accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+      'sec-fetch-site': 'none',
+      'sec-fetch-mode': 'navigate',
+      'sec-fetch-user': '?1',
+      'sec-fetch-dest': 'document',
+      'accept-encoding': 'gzip, deflate, br',
+      'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+      cookie: 'Idea-955fb2e9=29438c91-db76-46d7-9b23-6d8be8ccb73f; _snma=1%7C159559892909281248%7C1595598929092%7C1648609866472%7C1648609898768%7C93%7C28'
+    }
+  },
+  response: {
+    status: 404,
+    message: 'Not Found',
+    header: [Object: null prototype] {
+      vary: 'Origin',
+      'access-control-allow-origin': '*'
+    }
+  },
+  app: { subdomainOffset: 2, proxy: false, env: 'production' },
+  originalUrl: '/',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>'
+} home
+2022-04-13 17:04:06:   --> GET / 200 32ms 393b
+2022-04-13 17:04:07:   <-- GET /
+2022-04-13 17:04:07: {
+  request: {
+    method: 'GET',
+    url: '/',
+    header: {
+      host: 'localhost:3001',
+      connection: 'keep-alive',
+      'cache-control': 'max-age=0',
+      'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"',
+      'sec-ch-ua-mobile': '?0',
+      'sec-ch-ua-platform': '"macOS"',
+      'upgrade-insecure-requests': '1',
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36',
+      accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+      'sec-fetch-site': 'none',
+      'sec-fetch-mode': 'navigate',
+      'sec-fetch-user': '?1',
+      'sec-fetch-dest': 'document',
+      'accept-encoding': 'gzip, deflate, br',
+      'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+      cookie: 'Idea-955fb2e9=29438c91-db76-46d7-9b23-6d8be8ccb73f; _snma=1%7C159559892909281248%7C1595598929092%7C1648609866472%7C1648609898768%7C93%7C28'
+    }
+  },
+  response: {
+    status: 404,
+    message: 'Not Found',
+    header: [Object: null prototype] {
+      vary: 'Origin',
+      'access-control-allow-origin': '*'
+    }
+  },
+  app: { subdomainOffset: 2, proxy: false, env: 'production' },
+  originalUrl: '/',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>'
+} home
+2022-04-13 17:04:07:   --> GET / 200 13ms 393b
+2022-04-13 17:04:09:   <-- GET /nab
+2022-04-13 17:04:09:   --> GET /nab 404 15ms -
+2022-04-13 17:04:28: 数据库链接成功-connection success
+2022-04-13 17:04:28: 数据库链接成功-connection success
+2022-04-13 17:04:28: 数据库链接成功-connection success
+2022-04-13 17:04:29: 数据库链接成功-connection success
+2022-04-13 17:04:29:   <-- GET /
+2022-04-13 17:04:29: {
+  request: {
+    method: 'GET',
+    url: '/',
+    header: {
+      host: 'localhost:3001',
+      connection: 'keep-alive',
+      'cache-control': 'max-age=0',
+      'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"',
+      'sec-ch-ua-mobile': '?0',
+      'sec-ch-ua-platform': '"macOS"',
+      'upgrade-insecure-requests': '1',
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36',
+      accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+      'sec-fetch-site': 'none',
+      'sec-fetch-mode': 'navigate',
+      'sec-fetch-user': '?1',
+      'sec-fetch-dest': 'document',
+      'accept-encoding': 'gzip, deflate, br',
+      'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+      cookie: 'Idea-955fb2e9=29438c91-db76-46d7-9b23-6d8be8ccb73f; _snma=1%7C159559892909281248%7C1595598929092%7C1648609866472%7C1648609898768%7C93%7C28'
+    }
+  },
+  response: {
+    status: 404,
+    message: 'Not Found',
+    header: [Object: null prototype] {
+      vary: 'Origin',
+      'access-control-allow-origin': '*'
+    }
+  },
+  app: { subdomainOffset: 2, proxy: false, env: 'production' },
+  originalUrl: '/',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>'
+} home
+2022-04-13 17:04:29:   --> GET / 200 47ms 393b
+2022-04-13 17:07:38: 数据库链接成功-connection success
+2022-04-13 17:07:38: 数据库链接成功-connection success
+2022-04-13 17:07:40:   <-- GET /
+2022-04-13 17:07:40: {
+  request: {
+    method: 'GET',
+    url: '/',
+    header: {
+      host: 'localhost:3001',
+      connection: 'keep-alive',
+      'cache-control': 'max-age=0',
+      'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"',
+      'sec-ch-ua-mobile': '?0',
+      'sec-ch-ua-platform': '"macOS"',
+      'upgrade-insecure-requests': '1',
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36',
+      accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+      'sec-fetch-site': 'none',
+      'sec-fetch-mode': 'navigate',
+      'sec-fetch-user': '?1',
+      'sec-fetch-dest': 'document',
+      'accept-encoding': 'gzip, deflate, br',
+      'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+      cookie: 'Idea-955fb2e9=29438c91-db76-46d7-9b23-6d8be8ccb73f; _snma=1%7C159559892909281248%7C1595598929092%7C1648609866472%7C1648609898768%7C93%7C28'
+    }
+  },
+  response: {
+    status: 404,
+    message: 'Not Found',
+    header: [Object: null prototype] {
+      vary: 'Origin',
+      'access-control-allow-origin': '*'
+    }
+  },
+  app: { subdomainOffset: 2, proxy: false, env: 'production' },
+  originalUrl: '/',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>'
+} home
+2022-04-13 17:07:40:   --> GET / 200 45ms 393b
+2022-04-13 17:07:42:   <-- GET /nab
+2022-04-13 17:07:42:   --> GET /nab 404 5ms -
+2022-04-13 17:07:44:   <-- GET /
+2022-04-13 17:07:44: {
+  request: {
+    method: 'GET',
+    url: '/',
+    header: {
+      host: 'localhost:3001',
+      connection: 'keep-alive',
+      'cache-control': 'max-age=0',
+      'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"',
+      'sec-ch-ua-mobile': '?0',
+      'sec-ch-ua-platform': '"macOS"',
+      'upgrade-insecure-requests': '1',
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36',
+      accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+      'sec-fetch-site': 'none',
+      'sec-fetch-mode': 'navigate',
+      'sec-fetch-user': '?1',
+      'sec-fetch-dest': 'document',
+      'accept-encoding': 'gzip, deflate, br',
+      'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+      cookie: 'Idea-955fb2e9=29438c91-db76-46d7-9b23-6d8be8ccb73f; _snma=1%7C159559892909281248%7C1595598929092%7C1648609866472%7C1648609898768%7C93%7C28'
+    }
+  },
+  response: {
+    status: 404,
+    message: 'Not Found',
+    header: [Object: null prototype] {
+      vary: 'Origin',
+      'access-control-allow-origin': '*'
+    }
+  },
+  app: { subdomainOffset: 2, proxy: false, env: 'production' },
+  originalUrl: '/',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>'
+} home
+2022-04-13 17:07:44:   --> GET / 200 13ms 393b
+2022-04-13 17:07:50:   <-- GET /api/nba/rank
+2022-04-13 17:07:50: ===================requestGet=====================
+2022-04-13 17:07:50: 请求失败！
+2022-04-13 17:07:50:   xxx GET /api/nba/rank 500 266ms -
+2022-04-13 17:08:10: 数据库链接成功-connection success
+2022-04-13 17:08:10: 数据库链接成功-connection success
+2022-04-13 17:08:10: 数据库链接成功-connection success
+2022-04-13 17:08:10: 数据库链接成功-connection success
+2022-04-13 17:08:12:   <-- GET /api/nba/rank
+2022-04-13 17:08:12: ===================requestGet=====================
+2022-04-13 17:08:12: 请求失败！
+2022-04-13 17:08:12:   xxx GET /api/nba/rank 500 318ms -
+2022-04-13 17:08:33:   <-- GET /api/nba/rank/conference
+2022-04-13 17:08:33:   --> GET /api/nba/rank/conference 404 15ms -
+2022-04-13 17:08:42:   <-- GET /api/nba/match/list
+2022-04-13 17:08:42: ===================requestGet=====================
+2022-04-13 17:08:52: 请求失败！
+2022-04-13 17:08:52:   xxx GET /api/nba/match/list 500 10s -
+2022-04-13 17:09:08:   <-- GET /api/nba/match/list
+2022-04-13 17:09:08: ===================requestGet=====================
+2022-04-13 17:09:08: 请求失败！
+2022-04-13 17:09:08:   xxx GET /api/nba/match/list 500 54ms -
+2022-04-13 17:09:45: 数据库链接成功-connection success
+2022-04-13 17:09:45: 数据库链接成功-connection success
+2022-04-13 17:09:45: 数据库链接成功-connection success
+2022-04-13 17:09:45: 数据库链接成功-connection success
+2022-04-13 17:09:45:   <-- GET /api/nba/match/list
+2022-04-13 17:09:45: ===================requestGet=====================
+2022-04-13 17:09:45: 请求失败！
+2022-04-13 17:09:45:   xxx GET /api/nba/match/list 500 31ms -
+2022-04-13 17:09:46:   <-- GET /api/nba/match/list
+2022-04-13 17:09:46: ===================requestGet=====================
+2022-04-13 17:09:46: 请求失败！
+2022-04-13 17:09:46:   xxx GET /api/nba/match/list 500 13ms -
+2022-04-13 17:09:47:   <-- GET /api/nba/match/list
+2022-04-13 17:09:47: ===================requestGet=====================
+2022-04-13 17:09:47: 请求失败！
+2022-04-13 17:09:47:   xxx GET /api/nba/match/list 500 12ms -
+2022-04-13 17:09:47:   <-- GET /api/nba/match/list
+2022-04-13 17:09:47: ===================requestGet=====================
+2022-04-13 17:09:47: 请求失败！
+2022-04-13 17:09:47:   xxx GET /api/nba/match/list 500 14ms -
+2022-04-13 17:09:47:   <-- GET /api/nba/match/list
+2022-04-13 17:09:47: ===================requestGet=====================
+2022-04-13 17:09:47: 请求失败！
+2022-04-13 17:09:47:   xxx GET /api/nba/match/list 500 9ms -
+2022-04-13 17:09:47:   <-- GET /api/nba/match/list
+2022-04-13 17:09:47: ===================requestGet=====================
+2022-04-13 17:09:47: 请求失败！
+2022-04-13 17:09:47:   xxx GET /api/nba/match/list 500 12ms -
+2022-04-13 17:09:47:   <-- GET /api/nba/match/list
+2022-04-13 17:09:47: ===================requestGet=====================
+2022-04-13 17:09:47: 请求失败！
+2022-04-13 17:09:47:   xxx GET /api/nba/match/list 500 11ms -
+2022-04-13 17:09:48:   <-- GET /api/nba/match/list
+2022-04-13 17:09:48: ===================requestGet=====================
+2022-04-13 17:09:48: 请求失败！
+2022-04-13 17:09:48:   xxx GET /api/nba/match/list 500 11ms -
+2022-04-13 17:09:48:   <-- GET /api/nba/match/list
+2022-04-13 17:09:48: ===================requestGet=====================
+2022-04-13 17:09:48: 请求失败！
+2022-04-13 17:09:48:   xxx GET /api/nba/match/list 500 12ms -
+2022-04-13 17:09:48:   <-- GET /api/nba/match/list
+2022-04-13 17:09:48: ===================requestGet=====================
+2022-04-13 17:09:48: 请求失败！
+2022-04-13 17:09:48:   xxx GET /api/nba/match/list 500 11ms -
+2022-04-13 17:09:48:   <-- GET /api/nba/match/list
+2022-04-13 17:09:48: ===================requestGet=====================
+2022-04-13 17:09:48: 请求失败！
+2022-04-13 17:09:48:   xxx GET /api/nba/match/list 500 11ms -
+2022-04-13 17:09:53:   <-- GET /
+2022-04-13 17:09:53: {
+  request: {
+    method: 'GET',
+    url: '/',
+    header: {
+      host: 'localhost:3001',
+      connection: 'keep-alive',
+      'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"',
+      'sec-ch-ua-mobile': '?0',
+      'sec-ch-ua-platform': '"macOS"',
+      'upgrade-insecure-requests': '1',
+      'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36',
+      accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+      'sec-fetch-site': 'none',
+      'sec-fetch-mode': 'navigate',
+      'sec-fetch-user': '?1',
+      'sec-fetch-dest': 'document',
+      'accept-encoding': 'gzip, deflate, br',
+      'accept-language': 'zh-CN,zh;q=0.9,en;q=0.8',
+      cookie: 'Idea-955fb2e9=29438c91-db76-46d7-9b23-6d8be8ccb73f; _snma=1%7C159559892909281248%7C1595598929092%7C1648609866472%7C1648609898768%7C93%7C28'
+    }
+  },
+  response: {
+    status: 404,
+    message: 'Not Found',
+    header: [Object: null prototype] {
+      vary: 'Origin',
+      'access-control-allow-origin': '*'
+    }
+  },
+  app: { subdomainOffset: 2, proxy: false, env: 'production' },
+  originalUrl: '/',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>'
+} home
+2022-04-13 17:09:53:   --> GET / 200 82ms 393b
+2022-04-13 17:09:56:   <-- GET /nab
+2022-04-13 17:09:56:   --> GET /nab 404 5ms -
+2022-04-13 17:11:13: 数据库链接成功-connection success
+2022-04-13 17:11:13: 数据库链接成功-connection success
+2022-04-13 17:11:13: 数据库链接成功-connection success
+2022-04-13 17:11:13: 数据库链接成功-connection success
+2022-04-13 17:28:17: 数据库链接成功-connection success
+2022-04-13 17:28:18: 数据库链接成功-connection success
+2022-04-13 17:28:18: 数据库链接成功-connection success
+2022-04-13 17:28:18: 数据库链接成功-connection success
+2022-04-13 17:28:22: 数据库链接成功-connection success
+2022-04-13 17:28:22: 数据库链接成功-connection success
+2022-04-13 17:28:22: 数据库链接成功-connection success
+2022-04-13 17:28:22: 数据库链接成功-connection success
+2022-04-13 17:28:34: 数据库链接成功-connection success
+2022-04-13 17:28:34: 数据库链接成功-connection success
+2022-04-13 17:28:34: 数据库链接成功-connection success
+2022-04-13 17:28:34: 数据库链接成功-connection success
+2022-04-13 17:33:21: 数据库链接成功-connection success
+2022-04-13 17:33:21: 数据库链接成功-connection success
+2022-04-13 17:33:22: 数据库链接成功-connection success
+2022-04-13 17:33:22: 数据库链接成功-connection success
+2022-04-13 17:33:43:   <-- GET /static
+2022-04-13 17:33:43:   --> GET /static 404 17ms -
+2022-04-13 17:33:45:   <-- GET /static/reactchart
+2022-04-13 17:33:45:   --> GET /static/reactchart 404 3ms -
+2022-04-13 17:33:50:   <-- GET /static/reactchart/index.html
+2022-04-13 17:33:50:   --> GET /static/reactchart/index.html 404 2ms -
+2022-04-13 17:34:16: 数据库链接成功-connection success
+2022-04-13 17:34:16: 数据库链接成功-connection success
+2022-04-13 17:34:28: 数据库链接成功-connection success
+2022-04-13 17:34:28: 数据库链接成功-connection success
+2022-04-13 17:34:28: 数据库链接成功-connection success
+2022-04-13 17:34:28: 数据库链接成功-connection success
+2022-04-13 17:34:31:   <-- GET /static/1.json
+2022-04-13 17:34:31:   --> GET /static/1.json 404 17ms -
+2022-04-13 17:34:50: 数据库链接成功-connection success
+2022-04-13 17:34:50: 数据库链接成功-connection success
+2022-04-13 17:34:50: 数据库链接成功-connection success
+2022-04-13 17:34:50: 数据库链接成功-connection success
+2022-04-13 17:34:50:   <-- GET /static/1.json
+2022-04-13 17:34:50:   --> GET /static/1.json 404 15ms -
+2022-04-13 17:34:51:   <-- GET /static/1.json
+2022-04-13 17:34:51:   --> GET /static/1.json 404 4ms -
+2022-04-13 17:34:51:   <-- GET /static/1.json
+2022-04-13 17:34:51:   --> GET /static/1.json 404 4ms -
+2022-04-13 17:34:51:   <-- GET /static/1.json
+2022-04-13 17:34:51:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:34:52:   <-- GET /static/1.json
+2022-04-13 17:34:52:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:34:52:   <-- GET /static/1.json
+2022-04-13 17:34:52:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:34:52:   <-- GET /static/1.json
+2022-04-13 17:34:52:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:34:52:   <-- GET /static/1.json
+2022-04-13 17:34:52:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:34:52:   <-- GET /static/1.json
+2022-04-13 17:34:52:   --> GET /static/1.json 404 5ms -
+2022-04-13 17:34:52:   <-- GET /static/1.json
+2022-04-13 17:34:52:   --> GET /static/1.json 404 6ms -
+2022-04-13 17:34:53:   <-- GET /static/1.json
+2022-04-13 17:34:53:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:34:53:   <-- GET /static/1.json
+2022-04-13 17:34:53:   --> GET /static/1.json 404 2ms -
+2022-04-13 17:34:53:   <-- GET /static/1.json
+2022-04-13 17:34:53:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:35:15: 数据库链接成功-connection success
+2022-04-13 17:35:16: 数据库链接成功-connection success
+2022-04-13 17:35:16:   <-- GET /static/1.json
+2022-04-13 17:35:16:   --> GET /static/1.json 404 9ms -
+2022-04-13 17:35:16:   <-- GET /static/1.json
+2022-04-13 17:35:16:   --> GET /static/1.json 404 6ms -
+2022-04-13 17:35:17:   <-- GET /static/1.json
+2022-04-13 17:35:17:   --> GET /static/1.json 404 4ms -
+2022-04-13 17:35:18:   <-- GET /static/1.json
+2022-04-13 17:35:18:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:35:18:   <-- GET /static/1.json
+2022-04-13 17:35:18:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:35:18:   <-- GET /static/1.json
+2022-04-13 17:35:18:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:35:18:   <-- GET /static/1.json
+2022-04-13 17:35:18:   --> GET /static/1.json 404 2ms -
+2022-04-13 17:35:19:   <-- GET /static/1.json
+2022-04-13 17:35:19:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:35:19:   <-- GET /static/1.json
+2022-04-13 17:35:19:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:35:19:   <-- GET /static/1.json
+2022-04-13 17:35:19:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:35:19:   <-- GET /static/1.json
+2022-04-13 17:35:19:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:35:19:   <-- GET /static/1.json
+2022-04-13 17:35:19:   --> GET /static/1.json 404 5ms -
+2022-04-13 17:35:19:   <-- GET /static/1.json
+2022-04-13 17:35:19:   --> GET /static/1.json 404 8ms -
+2022-04-13 17:35:20:   <-- GET /static/1.json
+2022-04-13 17:35:20:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:35:20:   <-- GET /static/1.json
+2022-04-13 17:35:20:   --> GET /static/1.json 404 2ms -
+2022-04-13 17:35:20:   <-- GET /static/1.json
+2022-04-13 17:35:20:   --> GET /static/1.json 404 3ms -
+2022-04-13 17:35:40:   <-- GET /static/player/1.jpg
+2022-04-13 17:35:40:   --> GET /static/player/1.jpg 404 5ms -
+2022-04-13 17:35:49:   <-- GET /player/1.jpg
+2022-04-13 17:35:49:   --> GET /player/1.jpg 404 22ms -
+2022-04-13 17:36:00: 数据库链接成功-connection success
+2022-04-13 17:36:00: 数据库链接成功-connection success
+2022-04-13 17:36:00: 数据库链接成功-connection success
+2022-04-13 17:36:00: 数据库链接成功-connection success
+2022-04-13 17:36:04: 数据库链接成功-connection success
+2022-04-13 17:36:04: 数据库链接成功-connection success
+2022-04-13 17:36:04: 数据库链接成功-connection success
+2022-04-13 17:36:04: 数据库链接成功-connection success
+2022-04-13 17:37:43: /Users/sn/Desktop/work/study/node-splider-api __dirname
+2022-04-13 17:37:43: /Users/sn/Desktop/work/study/node-splider-api __dirname
+2022-04-13 17:37:43: 数据库链接成功-connection success
+2022-04-13 17:37:43: 数据库链接成功-connection success
+2022-04-13 17:37:43: /Users/sn/Desktop/work/study/node-splider-api __dirname
+2022-04-13 17:37:44: 数据库链接成功-connection success
+2022-04-13 17:37:44: /Users/sn/Desktop/work/study/node-splider-api __dirname
+2022-04-13 17:37:44: 数据库链接成功-connection success
+2022-04-13 17:38:05:   <-- GET /player/1.jpg
+2022-04-13 17:38:05:   --> GET /player/1.jpg 404 27ms -
+2022-04-13 17:38:09:   <-- GET /images/player/1.jpg
+2022-04-13 17:38:09:   --> GET /images/player/1.jpg 200 13ms 42.23kb
+2022-04-13 17:38:16:   <-- GET /1.json
+2022-04-13 17:38:16:   --> GET /1.json 200 23ms 19b
+2022-04-13 17:38:25:   <-- GET /reactchart/index.html
+2022-04-13 17:38:25:   --> GET /reactchart/index.html 200 24ms 861b
+2022-04-13 17:38:25:   <-- GET /umi.js
+2022-04-13 17:38:25:   --> GET /umi.js 404 10ms -
+2022-04-13 17:40:27: 数据库链接成功-connection success
+2022-04-13 17:40:27: 数据库链接成功-connection success
+2022-04-13 17:40:27: 数据库链接成功-connection success
+2022-04-13 17:40:27: 数据库链接成功-connection success
+2022-04-13 17:45:17: 数据库链接成功-connection success
+2022-04-13 17:45:18: 数据库链接成功-connection success
+2022-04-13 17:45:18: 数据库链接成功-connection success
+2022-04-13 17:45:18: 数据库链接成功-connection success
+2022-04-13 17:50:24: 数据库链接成功-connection success
+2022-04-13 17:50:24: 数据库链接成功-connection success
+2022-04-13 17:50:24: 数据库链接成功-connection success
+2022-04-13 17:50:24: 数据库链接成功-connection success
+2022-04-13 17:50:26:   <-- GET /
+2022-04-13 17:50:26:   --> GET / 302 22ms 75b
+2022-04-13 17:50:26:   <-- GET /reactchart/index.html
+2022-04-13 17:50:26:   --> GET /reactchart/index.html 200 23ms 861b
+2022-04-13 17:50:27:   <-- GET /umi.js
+2022-04-13 17:50:27:   --> GET /umi.js 302 21ms 75b
+2022-04-13 17:50:27:   <-- GET /reactchart/index.html
+2022-04-13 17:50:27:   --> GET /reactchart/index.html 200 6ms 861b
+2022-04-13 17:51:33: 数据库链接成功-connection success
+2022-04-13 17:51:33: 数据库链接成功-connection success
+2022-04-13 17:51:33: 数据库链接成功-connection success
+2022-04-13 17:51:33: 数据库链接成功-connection success
+2022-04-13 17:51:33:   <-- GET /
+2022-04-13 17:51:33:   xxx GET / 500 15ms -
+2022-04-13 17:54:54: 数据库链接成功-connection success
+2022-04-13 17:54:54: 数据库链接成功-connection success
+2022-04-13 17:54:54: 数据库链接成功-connection success
+2022-04-13 17:54:54: 数据库链接成功-connection success
+2022-04-13 17:54:57:   <-- GET /reactchart
+2022-04-13 17:54:57:   --> GET /reactchart 200 26ms 861b
+2022-04-13 17:54:57:   <-- GET /umi.js
+2022-04-13 17:54:57:   --> GET /umi.js 404 57ms -
+2022-04-13 17:55:03:   <-- GET /reactchart
+2022-04-13 17:55:03:   --> GET /reactchart 200 18ms 861b
+2022-04-13 17:55:03:   <-- GET /umi.js
+2022-04-13 17:55:03:   --> GET /umi.js 404 36ms -
+2022-04-13 17:55:08:   <-- GET /reactchart
+2022-04-13 17:55:08:   --> GET /reactchart 200 7ms 861b
+2022-04-13 17:55:08:   <-- GET /umi.js
+2022-04-13 17:55:08:   --> GET /umi.js 404 21ms -
+2022-04-13 17:55:43: 数据库链接成功-connection success
+2022-04-13 17:55:43: 数据库链接成功-connection success
+2022-04-13 17:55:43: 数据库链接成功-connection success
+2022-04-13 17:55:43: 数据库链接成功-connection success
+2022-04-13 17:55:43:   <-- GET /reactchart
+2022-04-13 17:55:43:   --> GET /reactchart 200 77ms 861b
+2022-04-13 17:55:43:   <-- GET /umi.js
+2022-04-13 17:55:43:   --> GET /umi.js 404 11ms -
+2022-04-13 17:55:44:   <-- GET /reactchart
+2022-04-13 17:55:44:   --> GET /reactchart 200 5ms 861b
+2022-04-13 17:55:44:   <-- GET /umi.js
+2022-04-13 17:55:44:   --> GET /umi.js 404 4ms -
+2022-04-13 17:55:45:   <-- GET /reactchart
+2022-04-13 17:55:45:   --> GET /reactchart 200 9ms 861b
+2022-04-13 17:55:45:   <-- GET /umi.js
+2022-04-13 17:55:45:   --> GET /umi.js 404 9ms -
+2022-04-13 17:56:41: 数据库链接成功-connection success
+2022-04-13 17:56:42: 数据库链接成功-connection success
+2022-04-13 17:57:06: 数据库链接成功-connection success
+2022-04-13 17:57:06: 数据库链接成功-connection success
+2022-04-13 17:57:06: 数据库链接成功-connection success
+2022-04-13 17:57:06: 数据库链接成功-connection success
+2022-04-13 17:57:12: 数据库链接成功-connection success
+2022-04-13 17:57:12: 数据库链接成功-connection success
+2022-04-13 17:57:12: 数据库链接成功-connection success
+2022-04-13 17:57:13: 数据库链接成功-connection success
+2022-04-13 17:57:25: 数据库链接成功-connection success
+2022-04-13 17:57:25: 数据库链接成功-connection success
+2022-04-13 17:57:25: 数据库链接成功-connection success
+2022-04-13 17:57:25: 数据库链接成功-connection success
+2022-04-13 17:57:25:   <-- GET /vite2-react17
+2022-04-13 17:57:25:   --> GET /vite2-react17 200 38ms 1.7kb
+2022-04-13 17:57:25:   <-- GET /assets/index.0d132620.js
+2022-04-13 17:57:25:   --> GET /assets/index.0d132620.js 404 13ms -
+2022-04-13 17:57:25:   <-- GET /assets/index.92c3b5d0.css
+2022-04-13 17:57:25:   --> GET /assets/index.92c3b5d0.css 404 32ms -
+2022-04-13 17:57:28:   <-- GET /vite2-react17
+2022-04-13 17:57:28:   --> GET /vite2-react17 200 9ms 1.7kb
+2022-04-13 17:57:28:   <-- GET /assets/index.0d132620.js
+2022-04-13 17:57:28:   <-- GET /assets/index.92c3b5d0.css
+2022-04-13 17:57:28:   --> GET /assets/index.0d132620.js 404 12ms -
+2022-04-13 17:57:28:   --> GET /assets/index.92c3b5d0.css 404 13ms -
+2022-04-13 17:57:35:   <-- GET /assets/polyfills-legacy.d92c8f02.js
+2022-04-13 17:57:35:   --> GET /assets/polyfills-legacy.d92c8f02.js 404 29ms -
+2022-04-13 18:01:21: 数据库链接成功-connection success
+2022-04-13 18:01:21: 数据库链接成功-connection success
+2022-04-13 18:01:21: 数据库链接成功-connection success
+2022-04-13 18:01:21: 数据库链接成功-connection success
+2022-04-13 18:01:36: 数据库链接成功-connection success
+2022-04-13 18:01:36: 数据库链接成功-connection success
+2022-04-13 18:01:36: 数据库链接成功-connection success
+2022-04-13 18:01:36: 数据库链接成功-connection success
+2022-04-13 18:01:37:   <-- GET /vite2-react17
+2022-04-13 18:01:37:   --> GET /vite2-react17 200 18ms 1.77kb
+2022-04-13 18:01:37:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-13 18:01:37:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-13 18:01:37:   --> GET /vite2-react17/assets/index.14818203.js 200 32ms 145.44kb
+2022-04-13 18:01:37:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-13 18:01:37:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-13 18:01:37:   --> GET /vite2-react17/assets/index.06cb61be.css 200 12ms 22b
+2022-04-13 18:01:37:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-13 18:01:37:   --> GET /vite2-react17/assets/logo.08112076.svg 200 4ms 2.69kb
+2022-04-13 18:01:37:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 42ms 850.7kb
+2022-04-13 18:01:37:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 153ms 2.26kb
+2022-04-13 18:01:38:   <-- GET /vite2-react17/favicon.ico
+2022-04-13 18:01:38:   --> GET /vite2-react17/favicon.ico 200 13ms 3.78kb
+2022-04-13 18:01:42:   <-- GET /vite2-react17/assets/success.6a5bfed8.js
+2022-04-13 18:01:42:   --> GET /vite2-react17/assets/success.6a5bfed8.js 200 10ms 129b
+2022-04-13 18:01:43:   <-- GET /vite2-react17/assets/error.0006fa28.js
+2022-04-13 18:01:43:   --> GET /vite2-react17/assets/error.0006fa28.js 200 16ms 129b
+2022-04-13 18:01:44:   <-- GET /vite2-react17/result/error
+2022-04-13 18:01:44:   xxx GET /vite2-react17/result/error 500 3ms -
+2022-04-13 18:02:19: 数据库链接成功-connection success
+2022-04-13 18:02:19:   <-- GET /vite2-react17/result/error
+2022-04-13 18:02:19: 数据库链接成功-connection success
+2022-04-13 18:02:19: /vite2-react17/result/error 888
+2022-04-13 18:02:19:   xxx GET /vite2-react17/result/error 500 23ms -
+2022-04-13 18:02:19: 数据库链接成功-connection success
+2022-04-13 18:02:19: 数据库链接成功-connection success
+2022-04-13 18:02:20:   <-- GET /vite2-react17/result/error
+2022-04-13 18:02:20: /vite2-react17/result/error 888
+2022-04-13 18:02:20:   xxx GET /vite2-react17/result/error 500 3ms -
+2022-04-13 18:02:27:   <-- GET /vite2-react17
+2022-04-13 18:02:27:   --> GET /vite2-react17 200 26ms 1.77kb
+2022-04-13 18:02:27:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-13 18:02:27:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-13 18:02:27:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 27ms 2.26kb
+2022-04-13 18:02:27:   --> GET /vite2-react17/assets/index.14818203.js 200 56ms 145.44kb
+2022-04-13 18:02:27:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-13 18:02:27:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 22ms 850.7kb
+2022-04-13 18:02:27:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-13 18:02:27:   --> GET /vite2-react17/assets/index.06cb61be.css 200 4ms 22b
+2022-04-13 18:02:27:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-13 18:02:27:   --> GET /vite2-react17/assets/logo.08112076.svg 200 5ms 2.69kb
+2022-04-13 18:02:27:   <-- GET /vite2-react17/favicon.ico
+2022-04-13 18:02:27:   --> GET /vite2-react17/favicon.ico 200 9ms 3.78kb
+2022-04-13 18:02:37:   <-- GET /vite2-react17
+2022-04-13 18:02:37:   --> GET /vite2-react17 200 18ms 1.77kb
+2022-04-13 18:02:37:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-13 18:02:37:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-13 18:02:37:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 15ms 2.26kb
+2022-04-13 18:02:37:   --> GET /vite2-react17/assets/index.14818203.js 200 31ms 145.44kb
+2022-04-13 18:02:37:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-13 18:02:38:   --> GET /vite2-react17/assets/logo.08112076.svg 200 99ms 2.69kb
+2022-04-13 18:02:38:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-13 18:02:38:   --> GET /vite2-react17/assets/index.06cb61be.css 200 7ms 22b
+2022-04-13 18:02:38:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-13 18:02:38:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 11ms 850.7kb
+2022-04-13 18:02:38:   <-- GET /vite2-react17/favicon.ico
+2022-04-13 18:02:38:   --> GET /vite2-react17/favicon.ico 200 8ms 3.78kb
+2022-04-13 18:02:59:   <-- GET /vite2-react17/assets/success.6a5bfed8.js
+2022-04-13 18:02:59:   --> GET /vite2-react17/assets/success.6a5bfed8.js 200 28ms 129b
+2022-04-13 18:03:34:   <-- GET /vite2-react17/result/success
+2022-04-13 18:03:34: /vite2-react17/result/success 888
+2022-04-13 18:03:34:   xxx GET /vite2-react17/result/success 500 4ms -
+2022-04-13 18:04:20: 数据库链接成功-connection success
+2022-04-13 18:04:20: 数据库链接成功-connection success
+2022-04-13 18:04:20: 数据库链接成功-connection success
+2022-04-13 18:04:20: 数据库链接成功-connection success
+2022-04-13 18:04:20:   <-- GET /vite2-react17/result/success
+2022-04-13 18:04:20: /vite2-react17/result/success 888
+2022-04-13 18:04:20:   xxx GET /vite2-react17/result/success 500 15ms -
+2022-04-13 18:04:42: 数据库链接成功-connection success
+2022-04-13 18:04:42: 数据库链接成功-connection success
+2022-04-13 18:04:42: 数据库链接成功-connection success
+2022-04-13 18:04:42: 数据库链接成功-connection success
+2022-04-13 18:04:42:   <-- GET /vite2-react17/result/success
+2022-04-13 18:04:42: /vite2-react17/result/success 888
+2022-04-13 18:04:42:   xxx GET /vite2-react17/result/success 500 13ms -
+2022-04-13 18:05:48: 数据库链接成功-connection success
+2022-04-13 18:05:48: 数据库链接成功-connection success
+2022-04-13 18:05:48: 数据库链接成功-connection success
+2022-04-13 18:05:48: 数据库链接成功-connection success
+2022-04-13 18:05:48:   <-- GET /vite2-react17/result/success
+2022-04-13 18:05:48: /vite2-react17/result/success 888
+2022-04-13 18:05:48:   xxx GET /vite2-react17/result/success 500 13ms -
+2022-04-13 18:06:06:   <-- GET /vite2-react17/result/
+2022-04-13 18:06:06: /vite2-react17/result/ 888
+2022-04-13 18:06:06:   xxx GET /vite2-react17/result/ 500 15ms -
+2022-04-13 18:06:10:   <-- GET /vite2-react17
+2022-04-13 18:06:10:   --> GET /vite2-react17 200 17ms 1.77kb
+2022-04-13 18:06:10:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-13 18:06:10:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-13 18:06:10:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 36ms 2.26kb
+2022-04-13 18:06:10:   --> GET /vite2-react17/assets/index.14818203.js 200 44ms 145.44kb
+2022-04-13 18:06:10:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-13 18:06:10:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-13 18:06:10:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-13 18:06:10:   --> GET /vite2-react17/assets/index.06cb61be.css 200 6ms 22b
+2022-04-13 18:06:10:   --> GET /vite2-react17/assets/logo.08112076.svg 200 16ms 2.69kb
+2022-04-13 18:06:10:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 40ms 850.7kb
+2022-04-13 18:06:11:   <-- GET /vite2-react17/favicon.ico
+2022-04-13 18:06:11:   --> GET /vite2-react17/favicon.ico 200 6ms 3.78kb
+2022-04-13 18:07:00:   <-- GET /vite2-react17
+2022-04-13 18:07:00:   --> GET /vite2-react17 200 12ms 1.77kb
+2022-04-13 18:07:00:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-13 18:07:00:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-13 18:07:00:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 19ms 2.26kb
+2022-04-13 18:07:00:   --> GET /vite2-react17/assets/index.14818203.js 200 24ms 145.44kb
+2022-04-13 18:07:00:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-13 18:07:00:   --> GET /vite2-react17/assets/logo.08112076.svg 200 6ms 2.69kb
+2022-04-13 18:07:00:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-13 18:07:00:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 18ms 850.7kb
+2022-04-13 18:07:00:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-13 18:07:00:   --> GET /vite2-react17/assets/index.06cb61be.css 200 4ms 22b
+2022-04-13 18:07:00:   <-- GET /vite2-react17/favicon.ico
+2022-04-13 18:07:00:   --> GET /vite2-react17/favicon.ico 200 11ms 3.78kb
+2022-04-13 18:07:11: 数据库链接成功-connection success
+2022-04-13 18:07:11: 数据库链接成功-connection success
+2022-04-13 18:07:11: 数据库链接成功-connection success
+2022-04-13 18:07:11: 数据库链接成功-connection success
+2022-04-13 18:10:24: 数据库链接成功-connection success
+2022-04-13 18:10:24: 数据库链接成功-connection success
+2022-04-13 18:10:24: 数据库链接成功-connection success
+2022-04-13 18:10:24: 数据库链接成功-connection success
+2022-04-13 18:10:26:   <-- GET /vite2-react17
+2022-04-13 18:10:26:   --> GET /vite2-react17 200 14ms 1.77kb
+2022-04-13 18:10:26:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-13 18:10:26:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-13 18:10:26:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 37ms 2.26kb
+2022-04-13 18:10:26:   --> GET /vite2-react17/assets/index.14818203.js 200 36ms 145.44kb
+2022-04-13 18:10:26:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-13 18:10:26:   --> GET /vite2-react17/assets/logo.08112076.svg 200 7ms 2.69kb
+2022-04-13 18:10:26:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-13 18:10:26:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-13 18:10:26:   --> GET /vite2-react17/assets/index.06cb61be.css 200 5ms 22b
+2022-04-13 18:10:26:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 66ms 850.7kb
+2022-04-13 18:10:27:   <-- GET /vite2-react17/favicon.ico
+2022-04-13 18:10:27:   --> GET /vite2-react17/favicon.ico 200 9ms 3.78kb
+2022-04-13 18:10:28:   <-- GET /vite2-react17/assets/success.6a5bfed8.js
+2022-04-13 18:10:28:   --> GET /vite2-react17/assets/success.6a5bfed8.js 200 9ms 129b
+2022-04-13 18:10:29:   <-- GET /vite2-react17/result/success
+2022-04-13 18:10:29: /vite2-react17/result/success 888
+2022-04-13 18:10:29:   xxx GET /vite2-react17/result/success 500 3ms -
+2022-04-13 18:10:31:   <-- GET /vite2-react17
+2022-04-13 18:10:31:   --> GET /vite2-react17 200 7ms 1.77kb
+2022-04-13 18:10:31:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-13 18:10:31:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-13 18:10:31:   --> GET /vite2-react17/assets/index.14818203.js 200 23ms 145.44kb
+2022-04-13 18:10:31:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 15ms 2.26kb
+2022-04-13 18:10:31:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-13 18:10:31:   --> GET /vite2-react17/assets/logo.08112076.svg 200 5ms 2.69kb
+2022-04-13 18:10:31:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-13 18:10:31:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-13 18:10:31:   --> GET /vite2-react17/assets/index.06cb61be.css 200 7ms 22b
+2022-04-13 18:10:31:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 21ms 850.7kb
+2022-04-13 18:10:31:   <-- GET /vite2-react17/favicon.ico
+2022-04-13 18:10:31:   --> GET /vite2-react17/favicon.ico 200 4ms 3.78kb
+2022-04-13 18:10:53:   <-- GET /vite2-react17/assets/success.6a5bfed8.js
+2022-04-13 18:10:53:   --> GET /vite2-react17/assets/success.6a5bfed8.js 200 22ms 129b
+2022-04-13 18:10:58:   <-- GET /vite2-react17/result/success
+2022-04-13 18:10:58: /vite2-react17/result/success 888
+2022-04-13 18:10:58:   xxx GET /vite2-react17/result/success 500 9ms -
+2022-04-14 02:10:27: 数据库链接成功-connection success
+2022-04-14 02:10:27: 数据库链接成功-connection success
+2022-04-14 02:10:27: 数据库链接成功-connection success
+2022-04-14 02:10:27: 数据库链接成功-connection success
+2022-04-14 08:57:18: 数据库链接成功-connection success
+2022-04-14 08:57:18: 数据库链接成功-connection success
+2022-04-14 08:57:18: 数据库链接成功-connection success
+2022-04-14 08:57:18: 数据库链接成功-connection success
+2022-04-14 08:57:32:   <-- GET /
+2022-04-14 08:57:32: / 888
+2022-04-14 08:57:32:   xxx GET / 500 23ms -
+2022-04-14 08:57:33:   <-- GET /favicon.ico
+2022-04-14 08:57:33: /favicon.ico 888
+2022-04-14 08:57:33:   xxx GET /favicon.ico 500 4ms -
+2022-04-14 09:07:52:   <-- GET /
+2022-04-14 09:07:52: / 888
+2022-04-14 09:07:52:   xxx GET / 500 10ms -
+2022-04-14 09:07:52:   <-- GET /favicon.ico
+2022-04-14 09:07:52: /favicon.ico 888
+2022-04-14 09:07:52:   xxx GET /favicon.ico 500 16ms -
+2022-04-14 09:08:12:   <-- GET /
+2022-04-14 09:08:12: / 888
+2022-04-14 09:08:12:   xxx GET / 500 12ms -
+2022-04-14 09:08:12:   <-- GET /favicon.ico
+2022-04-14 09:08:12: /favicon.ico 888
+2022-04-14 09:08:12:   xxx GET /favicon.ico 500 4ms -
+2022-04-14 09:08:55:   <-- GET /
+2022-04-14 09:08:55: / 888
+2022-04-14 09:08:55:   xxx GET / 500 12ms -
+2022-04-14 09:08:55:   <-- GET /favicon.ico
+2022-04-14 09:08:55: /favicon.ico 888
+2022-04-14 09:08:55:   xxx GET /favicon.ico 500 3ms -
+2022-04-14 09:09:00:   <-- GET /vite2-react17
+2022-04-14 09:09:00:   --> GET /vite2-react17 200 46ms 1.77kb
+2022-04-14 09:09:00:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 09:09:00:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 24ms 2.26kb
+2022-04-14 09:09:00:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 09:09:01:   --> GET /vite2-react17/assets/index.14818203.js 200 38ms 145.44kb
+2022-04-14 09:09:01:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 09:09:01:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 63ms 850.7kb
+2022-04-14 09:09:01:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 09:09:01:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 09:09:01:   --> GET /vite2-react17/assets/logo.08112076.svg 200 6ms 2.69kb
+2022-04-14 09:09:01:   --> GET /vite2-react17/assets/index.06cb61be.css 200 10ms 22b
+2022-04-14 09:09:01:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 09:09:01:   --> GET /vite2-react17/favicon.ico 200 6ms 3.78kb
+2022-04-14 09:14:33:   <-- GET /vite2-react17
+2022-04-14 09:14:33:   --> GET /vite2-react17 200 10ms 1.77kb
+2022-04-14 09:14:33:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 09:14:33:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 09:14:33:   --> GET /vite2-react17/assets/index.14818203.js 200 16ms 145.44kb
+2022-04-14 09:14:33:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 15ms 2.26kb
+2022-04-14 09:14:33:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 09:14:33:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 09:14:33:   --> GET /vite2-react17/assets/logo.08112076.svg 200 20ms 2.69kb
+2022-04-14 09:14:33:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 09:14:33:   --> GET /vite2-react17/assets/index.06cb61be.css 200 25ms 22b
+2022-04-14 09:14:33:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 95ms 850.7kb
+2022-04-14 09:14:33:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 09:14:33:   --> GET /vite2-react17/favicon.ico 200 3ms 3.78kb
+2022-04-14 09:14:36:   <-- GET /
+2022-04-14 09:14:36: / 888
+2022-04-14 09:14:36:   xxx GET / 500 3ms -
+2022-04-14 09:14:36:   <-- GET /favicon.ico
+2022-04-14 09:14:36: /favicon.ico 888
+2022-04-14 09:14:36:   xxx GET /favicon.ico 500 6ms -
+2022-04-14 09:14:44:   <-- GET /vite2-react17
+2022-04-14 09:14:44:   --> GET /vite2-react17 200 11ms 1.77kb
+2022-04-14 09:14:44:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 09:14:44:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 09:14:44:   --> GET /vite2-react17/assets/index.14818203.js 200 35ms 145.44kb
+2022-04-14 09:14:44:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 34ms 2.26kb
+2022-04-14 09:14:44:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 09:14:44:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 09:14:44:   --> GET /vite2-react17/assets/index.06cb61be.css 200 7ms 22b
+2022-04-14 09:14:44:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 16ms 850.7kb
+2022-04-14 09:14:44:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 09:14:44:   --> GET /vite2-react17/assets/logo.08112076.svg 200 3ms 2.69kb
+2022-04-14 09:14:46:   <-- GET /vite2-react17/assets/success.6a5bfed8.js
+2022-04-14 09:14:46:   --> GET /vite2-react17/assets/success.6a5bfed8.js 200 9ms 129b
+2022-04-14 09:14:47:   <-- GET /vite2-react17/result/success
+2022-04-14 09:14:47: /vite2-react17/result/success 888
+2022-04-14 09:14:47:   xxx GET /vite2-react17/result/success 500 3ms -
+2022-04-14 09:14:47:   <-- GET /favicon.ico
+2022-04-14 09:14:47: /favicon.ico 888
+2022-04-14 09:14:47:   xxx GET /favicon.ico 500 8ms -
+2022-04-14 09:16:05:   <-- GET /vite2-react17
+2022-04-14 09:16:05:   --> GET /vite2-react17 200 12ms 1.77kb
+2022-04-14 09:16:05:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 09:16:06:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 09:16:06:   --> GET /vite2-react17/assets/index.14818203.js 200 57ms 145.44kb
+2022-04-14 09:16:06:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 37ms 2.26kb
+2022-04-14 09:16:06:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 09:16:06:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 09:16:06:   --> GET /vite2-react17/assets/index.06cb61be.css 200 13ms 22b
+2022-04-14 09:16:06:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 22ms 850.7kb
+2022-04-14 09:16:06:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 09:16:06:   --> GET /vite2-react17/assets/logo.08112076.svg 200 5ms 2.69kb
+2022-04-14 09:16:06:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 09:16:06:   --> GET /vite2-react17/favicon.ico 200 9ms 3.78kb
+2022-04-14 09:16:08:   <-- GET /vite2-react17
+2022-04-14 09:16:08:   --> GET /vite2-react17 200 7ms 1.77kb
+2022-04-14 09:16:08:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 09:16:08:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 09:16:08:   --> GET /vite2-react17/assets/index.14818203.js 200 41ms 145.44kb
+2022-04-14 09:16:08:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 38ms 2.26kb
+2022-04-14 09:16:08:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 09:16:08:   --> GET /vite2-react17/assets/logo.08112076.svg 200 3ms 2.69kb
+2022-04-14 09:16:08:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 09:16:08:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 09:16:08:   --> GET /vite2-react17/assets/index.06cb61be.css 200 1ms 22b
+2022-04-14 09:16:08:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 18ms 850.7kb
+2022-04-14 09:16:08:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 09:16:08:   --> GET /vite2-react17/favicon.ico 200 5ms 3.78kb
+2022-04-14 09:16:14:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:16:14: /vite2-react17/result/page404 888
+2022-04-14 09:16:14:   xxx GET /vite2-react17/result/page404 500 5ms -
+2022-04-14 09:16:14:   <-- GET /favicon.ico
+2022-04-14 09:16:14: /favicon.ico 888
+2022-04-14 09:16:14:   xxx GET /favicon.ico 500 5ms -
+2022-04-14 09:19:37:   <-- GET /favicon.ico
+2022-04-14 09:19:37: /favicon.ico 888
+2022-04-14 09:19:37:   xxx GET /favicon.ico 500 7ms -
+2022-04-14 09:19:38:   <-- GET /vite2-react17
+2022-04-14 09:19:38:   --> GET /vite2-react17 200 9ms 1.77kb
+2022-04-14 09:19:38:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 09:19:38:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 09:19:38:   --> GET /vite2-react17/assets/index.14818203.js 200 27ms 145.44kb
+2022-04-14 09:19:38:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 23ms 2.26kb
+2022-04-14 09:19:39:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 09:19:39:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 09:19:39:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 09:19:39:   --> GET /vite2-react17/assets/index.06cb61be.css 200 29ms 22b
+2022-04-14 09:19:39:   --> GET /vite2-react17/assets/logo.08112076.svg 200 35ms 2.69kb
+2022-04-14 09:19:39:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 60ms 850.7kb
+2022-04-14 09:19:39:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 09:19:39:   --> GET /vite2-react17/favicon.ico 200 3ms 3.78kb
+2022-04-14 09:19:44:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:19:44: /vite2-react17/result/page404 888
+2022-04-14 09:19:44:   xxx GET /vite2-react17/result/page404 500 4ms -
+2022-04-14 09:19:44:   <-- GET /favicon.ico
+2022-04-14 09:19:44: /favicon.ico 888
+2022-04-14 09:19:44:   xxx GET /favicon.ico 500 9ms -
+2022-04-14 09:20:07:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:20:07: /vite2-react17/result/page404 888
+2022-04-14 09:20:07:   xxx GET /vite2-react17/result/page404 500 4ms -
+2022-04-14 09:20:07:   <-- GET /favicon.ico
+2022-04-14 09:20:07: /favicon.ico 888
+2022-04-14 09:20:07:   xxx GET /favicon.ico 500 5ms -
+2022-04-14 09:20:08:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:20:08: /vite2-react17/result/page404 888
+2022-04-14 09:20:08:   xxx GET /vite2-react17/result/page404 500 6ms -
+2022-04-14 09:20:08:   <-- GET /favicon.ico
+2022-04-14 09:20:08: /favicon.ico 888
+2022-04-14 09:20:08:   xxx GET /favicon.ico 500 15ms -
+2022-04-14 09:20:09:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:20:09: /vite2-react17/result/page404 888
+2022-04-14 09:20:09:   xxx GET /vite2-react17/result/page404 500 4ms -
+2022-04-14 09:20:09:   <-- GET /favicon.ico
+2022-04-14 09:20:09: /favicon.ico 888
+2022-04-14 09:20:09:   xxx GET /favicon.ico 500 6ms -
+2022-04-14 09:20:09:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:20:09: /vite2-react17/result/page404 888
+2022-04-14 09:20:09:   xxx GET /vite2-react17/result/page404 500 1ms -
+2022-04-14 09:20:09:   <-- GET /favicon.ico
+2022-04-14 09:20:09: /favicon.ico 888
+2022-04-14 09:20:09:   xxx GET /favicon.ico 500 9ms -
+2022-04-14 09:20:09:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:20:09: /vite2-react17/result/page404 888
+2022-04-14 09:20:09:   xxx GET /vite2-react17/result/page404 500 2ms -
+2022-04-14 09:20:09:   <-- GET /favicon.ico
+2022-04-14 09:20:09: /favicon.ico 888
+2022-04-14 09:20:09:   xxx GET /favicon.ico 500 13ms -
+2022-04-14 09:20:09:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:20:09: /vite2-react17/result/page404 888
+2022-04-14 09:20:09:   xxx GET /vite2-react17/result/page404 500 2ms -
+2022-04-14 09:20:09:   <-- GET /favicon.ico
+2022-04-14 09:20:09: /favicon.ico 888
+2022-04-14 09:20:09:   xxx GET /favicon.ico 500 5ms -
+2022-04-14 09:20:10:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:20:10: /vite2-react17/result/page404 888
+2022-04-14 09:20:10:   xxx GET /vite2-react17/result/page404 500 2ms -
+2022-04-14 09:20:10:   <-- GET /favicon.ico
+2022-04-14 09:20:10: /favicon.ico 888
+2022-04-14 09:20:10:   xxx GET /favicon.ico 500 29ms -
+2022-04-14 09:20:10:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:20:10: /vite2-react17/result/page404 888
+2022-04-14 09:20:10:   xxx GET /vite2-react17/result/page404 500 7ms -
+2022-04-14 09:20:10:   <-- GET /favicon.ico
+2022-04-14 09:20:10: /favicon.ico 888
+2022-04-14 09:20:10:   xxx GET /favicon.ico 500 1ms -
+2022-04-14 09:20:10:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:20:10: /vite2-react17/result/page404 888
+2022-04-14 09:20:10:   xxx GET /vite2-react17/result/page404 500 3ms -
+2022-04-14 09:20:10:   <-- GET /favicon.ico
+2022-04-14 09:20:10: /favicon.ico 888
+2022-04-14 09:20:10:   xxx GET /favicon.ico 500 3ms -
+2022-04-14 09:20:33:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:20:33: /vite2-react17/result/page404 888
+2022-04-14 09:20:33:   xxx GET /vite2-react17/result/page404 500 6ms -
+2022-04-14 09:20:34:   <-- GET /favicon.ico
+2022-04-14 09:20:34: /favicon.ico 888
+2022-04-14 09:20:34:   xxx GET /favicon.ico 500 21ms -
+2022-04-14 09:20:35:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:20:35: /vite2-react17/result/page404 888
+2022-04-14 09:20:35:   xxx GET /vite2-react17/result/page404 500 6ms -
+2022-04-14 09:20:35:   <-- GET /favicon.ico
+2022-04-14 09:20:35: /favicon.ico 888
+2022-04-14 09:20:35:   xxx GET /favicon.ico 500 6ms -
+2022-04-14 09:20:35:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:20:35: /vite2-react17/result/page404 888
+2022-04-14 09:20:35:   xxx GET /vite2-react17/result/page404 500 3ms -
+2022-04-14 09:20:35:   <-- GET /favicon.ico
+2022-04-14 09:20:35: /favicon.ico 888
+2022-04-14 09:20:35:   xxx GET /favicon.ico 500 8ms -
+2022-04-14 09:20:36:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:20:36: /vite2-react17/result/page404 888
+2022-04-14 09:20:36:   xxx GET /vite2-react17/result/page404 500 3ms -
+2022-04-14 09:20:36:   <-- GET /favicon.ico
+2022-04-14 09:20:36: /favicon.ico 888
+2022-04-14 09:20:36:   xxx GET /favicon.ico 500 13ms -
+2022-04-14 09:20:36:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:20:36: /vite2-react17/result/page404 888
+2022-04-14 09:20:36:   xxx GET /vite2-react17/result/page404 500 4ms -
+2022-04-14 09:20:37:   <-- GET /favicon.ico
+2022-04-14 09:20:37: /favicon.ico 888
+2022-04-14 09:20:37:   xxx GET /favicon.ico 500 1ms -
+2022-04-14 09:20:56:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:20:56: /vite2-react17/result/page404 888
+2022-04-14 09:20:56:   xxx GET /vite2-react17/result/page404 500 4ms -
+2022-04-14 09:20:56:   <-- GET /favicon.ico
+2022-04-14 09:20:56: /favicon.ico 888
+2022-04-14 09:20:56:   xxx GET /favicon.ico 500 5ms -
+2022-04-14 09:26:56:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:26:56: /vite2-react17/result/page404 888
+2022-04-14 09:26:56:   xxx GET /vite2-react17/result/page404 500 2ms -
+2022-04-14 09:26:56:   <-- GET /favicon.ico
+2022-04-14 09:26:56: /favicon.ico 888
+2022-04-14 09:26:56:   xxx GET /favicon.ico 500 3ms -
+2022-04-14 09:26:57:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:26:57: /vite2-react17/result/page404 888
+2022-04-14 09:26:57:   xxx GET /vite2-react17/result/page404 500 8ms -
+2022-04-14 09:26:57:   <-- GET /favicon.ico
+2022-04-14 09:26:57: /favicon.ico 888
+2022-04-14 09:26:57:   xxx GET /favicon.ico 500 6ms -
+2022-04-14 09:26:57:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:26:57: /vite2-react17/result/page404 888
+2022-04-14 09:26:57:   xxx GET /vite2-react17/result/page404 500 4ms -
+2022-04-14 09:26:57:   <-- GET /favicon.ico
+2022-04-14 09:26:57: /favicon.ico 888
+2022-04-14 09:26:57:   xxx GET /favicon.ico 500 3ms -
+2022-04-14 09:26:57:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:26:57: /vite2-react17/result/page404 888
+2022-04-14 09:26:57:   xxx GET /vite2-react17/result/page404 500 2ms -
+2022-04-14 09:26:58:   <-- GET /favicon.ico
+2022-04-14 09:26:58: /favicon.ico 888
+2022-04-14 09:26:58:   xxx GET /favicon.ico 500 3ms -
+2022-04-14 09:26:58:   <-- GET /vite2-react17/result/page404
+2022-04-14 09:26:58: /vite2-react17/result/page404 888
+2022-04-14 09:26:58:   xxx GET /vite2-react17/result/page404 500 4ms -
+2022-04-14 09:26:58:   <-- GET /favicon.ico
+2022-04-14 09:26:58: /favicon.ico 888
+2022-04-14 09:26:58:   xxx GET /favicon.ico 500 5ms -
+2022-04-14 09:32:52:   <-- GET /vite2-react17
+2022-04-14 09:32:52:   --> GET /vite2-react17 200 22ms 1.77kb
+2022-04-14 09:32:52:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 09:32:52:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 09:32:52:   --> GET /vite2-react17/assets/index.14818203.js 200 50ms 145.44kb
+2022-04-14 09:32:52:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 24ms 2.26kb
+2022-04-14 09:32:52:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 09:32:52:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 11ms 850.7kb
+2022-04-14 09:32:52:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 09:32:52:   --> GET /vite2-react17/assets/logo.08112076.svg 200 3ms 2.69kb
+2022-04-14 09:32:52:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 09:32:52:   --> GET /vite2-react17/assets/index.06cb61be.css 200 12ms 22b
+2022-04-14 09:32:52:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 09:32:52:   --> GET /vite2-react17/favicon.ico 200 6ms 3.78kb
+2022-04-14 09:33:09:   <-- GET /vite2-react17
+2022-04-14 09:33:09: /vite2-react17 888
+2022-04-14 09:33:09:   xxx GET /vite2-react17 500 3ms -
+2022-04-14 09:33:10:   <-- GET /favicon.ico
+2022-04-14 09:33:10: /favicon.ico 888
+2022-04-14 09:33:10:   xxx GET /favicon.ico 500 10ms -
+2022-04-14 09:35:53:   <-- GET /vite2-react17
+2022-04-14 09:35:53: /vite2-react17 888
+2022-04-14 09:35:53:   xxx GET /vite2-react17 500 2ms -
+2022-04-14 09:35:53:   <-- GET /favicon.ico
+2022-04-14 09:35:53: /favicon.ico 888
+2022-04-14 09:35:53:   xxx GET /favicon.ico 500 7ms -
+2022-04-14 09:35:53:   <-- GET /vite2-react17
+2022-04-14 09:35:53: /vite2-react17 888
+2022-04-14 09:35:53:   xxx GET /vite2-react17 500 4ms -
+2022-04-14 09:35:53:   <-- GET /favicon.ico
+2022-04-14 09:35:53: /favicon.ico 888
+2022-04-14 09:35:53:   xxx GET /favicon.ico 500 14ms -
+2022-04-14 09:35:54:   <-- GET /vite2-react17
+2022-04-14 09:35:54: /vite2-react17 888
+2022-04-14 09:35:54:   xxx GET /vite2-react17 500 3ms -
+2022-04-14 09:35:54:   <-- GET /favicon.ico
+2022-04-14 09:35:54: /favicon.ico 888
+2022-04-14 09:35:54:   xxx GET /favicon.ico 500 9ms -
+2022-04-14 09:50:46:   <-- GET /vite2-react17
+2022-04-14 09:50:46:   --> GET /vite2-react17 200 8ms 1.77kb
+2022-04-14 09:50:46:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 09:50:46:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 09:50:46:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 42ms 2.26kb
+2022-04-14 09:50:46:   --> GET /vite2-react17/assets/index.14818203.js 200 65ms 145.44kb
+2022-04-14 09:50:46:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 09:50:46:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 09:50:46:   --> GET /vite2-react17/assets/index.06cb61be.css 200 9ms 22b
+2022-04-14 09:50:46:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 27ms 850.7kb
+2022-04-14 09:50:46:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 09:50:46:   --> GET /vite2-react17/assets/logo.08112076.svg 200 8ms 2.69kb
+2022-04-14 09:50:46:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 09:50:46:   --> GET /vite2-react17/favicon.ico 200 8ms 3.78kb
+2022-04-14 09:50:48:   <-- GET /vite2-react17/assets/success.6a5bfed8.js
+2022-04-14 09:50:48:   --> GET /vite2-react17/assets/success.6a5bfed8.js 200 12ms 129b
+2022-04-14 09:50:49:   <-- GET /vite2-react17/result/success
+2022-04-14 09:50:49: /vite2-react17/result/success 888
+2022-04-14 09:50:49:   xxx GET /vite2-react17/result/success 500 3ms -
+2022-04-14 09:50:49:   <-- GET /favicon.ico
+2022-04-14 09:50:49: /favicon.ico 888
+2022-04-14 09:50:49:   xxx GET /favicon.ico 500 15ms -
+2022-04-14 09:51:51:   <-- GET /vite2-react17/result/success
+2022-04-14 09:51:51: /vite2-react17/result/success 888
+2022-04-14 09:51:51:   xxx GET /vite2-react17/result/success 500 2ms -
+2022-04-14 09:51:51:   <-- GET /favicon.ico
+2022-04-14 09:51:51: /favicon.ico 888
+2022-04-14 09:51:51:   xxx GET /favicon.ico 500 4ms -
+2022-04-14 09:51:52:   <-- GET /vite2-react17/result/success
+2022-04-14 09:51:52: /vite2-react17/result/success 888
+2022-04-14 09:51:52:   xxx GET /vite2-react17/result/success 500 5ms -
+2022-04-14 09:51:52:   <-- GET /favicon.ico
+2022-04-14 09:51:52: /favicon.ico 888
+2022-04-14 09:51:52:   xxx GET /favicon.ico 500 11ms -
+2022-04-14 09:51:52:   <-- GET /vite2-react17/result/success
+2022-04-14 09:51:52: /vite2-react17/result/success 888
+2022-04-14 09:51:52:   xxx GET /vite2-react17/result/success 500 5ms -
+2022-04-14 09:51:52:   <-- GET /favicon.ico
+2022-04-14 09:51:52: /favicon.ico 888
+2022-04-14 09:51:52:   xxx GET /favicon.ico 500 9ms -
+2022-04-14 09:51:53:   <-- GET /vite2-react17/result/success
+2022-04-14 09:51:53: /vite2-react17/result/success 888
+2022-04-14 09:51:53:   xxx GET /vite2-react17/result/success 500 9ms -
+2022-04-14 09:51:53:   <-- GET /favicon.ico
+2022-04-14 09:51:53: /favicon.ico 888
+2022-04-14 09:51:53:   xxx GET /favicon.ico 500 12ms -
+2022-04-14 09:51:53:   <-- GET /vite2-react17/result/success
+2022-04-14 09:51:53: /vite2-react17/result/success 888
+2022-04-14 09:51:53:   xxx GET /vite2-react17/result/success 500 1ms -
+2022-04-14 09:51:53:   <-- GET /favicon.ico
+2022-04-14 09:51:53: /favicon.ico 888
+2022-04-14 09:51:53:   xxx GET /favicon.ico 500 1ms -
+2022-04-14 09:51:53:   <-- GET /vite2-react17/result/success
+2022-04-14 09:51:53: /vite2-react17/result/success 888
+2022-04-14 09:51:53:   xxx GET /vite2-react17/result/success 500 2ms -
+2022-04-14 09:51:53:   <-- GET /favicon.ico
+2022-04-14 09:51:53: /favicon.ico 888
+2022-04-14 09:51:53:   xxx GET /favicon.ico 500 3ms -
+2022-04-14 09:51:53:   <-- GET /vite2-react17/result/success
+2022-04-14 09:51:53: /vite2-react17/result/success 888
+2022-04-14 09:51:53:   xxx GET /vite2-react17/result/success 500 4ms -
+2022-04-14 09:51:53:   <-- GET /favicon.ico
+2022-04-14 09:51:53: /favicon.ico 888
+2022-04-14 09:51:53:   xxx GET /favicon.ico 500 1ms -
+2022-04-14 09:51:53:   <-- GET /vite2-react17/result/success
+2022-04-14 09:51:53: /vite2-react17/result/success 888
+2022-04-14 09:51:53:   xxx GET /vite2-react17/result/success 500 4ms -
+2022-04-14 09:51:53:   <-- GET /favicon.ico
+2022-04-14 09:51:53: /favicon.ico 888
+2022-04-14 09:51:53:   xxx GET /favicon.ico 500 2ms -
+2022-04-14 09:51:54:   <-- GET /vite2-react17/result/success
+2022-04-14 09:51:54: /vite2-react17/result/success 888
+2022-04-14 09:51:54:   xxx GET /vite2-react17/result/success 500 7ms -
+2022-04-14 09:51:54:   <-- GET /favicon.ico
+2022-04-14 09:51:54: /favicon.ico 888
+2022-04-14 09:51:54:   xxx GET /favicon.ico 500 10ms -
+2022-04-14 09:51:54:   <-- GET /vite2-react17/result/success
+2022-04-14 09:51:54: /vite2-react17/result/success 888
+2022-04-14 09:51:54:   xxx GET /vite2-react17/result/success 500 4ms -
+2022-04-14 09:51:54:   <-- GET /favicon.ico
+2022-04-14 09:51:54: /favicon.ico 888
+2022-04-14 09:51:54:   xxx GET /favicon.ico 500 4ms -
+2022-04-14 09:51:54:   <-- GET /vite2-react17/result/success
+2022-04-14 09:51:54: /vite2-react17/result/success 888
+2022-04-14 09:51:54:   xxx GET /vite2-react17/result/success 500 3ms -
+2022-04-14 09:51:54:   <-- GET /favicon.ico
+2022-04-14 09:51:54: /favicon.ico 888
+2022-04-14 09:51:54:   xxx GET /favicon.ico 500 9ms -
+2022-04-14 09:51:54:   <-- GET /vite2-react17/result/success
+2022-04-14 09:51:54: /vite2-react17/result/success 888
+2022-04-14 09:51:54:   xxx GET /vite2-react17/result/success 500 5ms -
+2022-04-14 09:51:54:   <-- GET /favicon.ico
+2022-04-14 09:51:54: /favicon.ico 888
+2022-04-14 09:51:54:   xxx GET /favicon.ico 500 2ms -
+2022-04-14 09:51:54:   <-- GET /vite2-react17/result/success
+2022-04-14 09:51:54: /vite2-react17/result/success 888
+2022-04-14 09:51:54:   xxx GET /vite2-react17/result/success 500 3ms -
+2022-04-14 09:51:54:   <-- GET /favicon.ico
+2022-04-14 09:51:54: /favicon.ico 888
+2022-04-14 09:51:54:   xxx GET /favicon.ico 500 2ms -
+2022-04-14 09:51:54:   <-- GET /vite2-react17/result/success
+2022-04-14 09:51:54: /vite2-react17/result/success 888
+2022-04-14 09:51:54:   xxx GET /vite2-react17/result/success 500 1ms -
+2022-04-14 09:51:54:   <-- GET /favicon.ico
+2022-04-14 09:51:54: /favicon.ico 888
+2022-04-14 09:51:54:   xxx GET /favicon.ico 500 2ms -
+2022-04-14 09:51:55:   <-- GET /vite2-react17/result/success
+2022-04-14 09:51:55: /vite2-react17/result/success 888
+2022-04-14 09:51:55:   xxx GET /vite2-react17/result/success 500 3ms -
+2022-04-14 09:51:55:   <-- GET /favicon.ico
+2022-04-14 09:51:55: /favicon.ico 888
+2022-04-14 09:51:55:   xxx GET /favicon.ico 500 2ms -
+2022-04-14 09:52:10:   <-- GET /favicon.ico
+2022-04-14 09:52:10: /favicon.ico 888
+2022-04-14 09:52:10:   xxx GET /favicon.ico 500 4ms -
+2022-04-14 09:52:12:   <-- GET /favicon.ico
+2022-04-14 09:52:12: /favicon.ico 888
+2022-04-14 09:52:12:   xxx GET /favicon.ico 500 3ms -
+2022-04-14 09:52:14:   <-- GET /favicon.ico
+2022-04-14 09:52:14: /favicon.ico 888
+2022-04-14 09:52:14:   xxx GET /favicon.ico 500 3ms -
+2022-04-14 09:52:14:   <-- GET /vite2-react17
+2022-04-14 09:52:14:   --> GET /vite2-react17 200 3ms 1.77kb
+2022-04-14 09:52:14:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 09:52:14:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 09:52:14:   --> GET /vite2-react17/assets/index.14818203.js 200 46ms 145.44kb
+2022-04-14 09:52:14:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 31ms 2.26kb
+2022-04-14 09:52:14:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 09:52:14:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 09:52:14:   --> GET /vite2-react17/assets/index.06cb61be.css 200 4ms 22b
+2022-04-14 09:52:14:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 18ms 850.7kb
+2022-04-14 09:52:14:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 09:52:14:   --> GET /vite2-react17/assets/logo.08112076.svg 200 3ms 2.69kb
+2022-04-14 09:52:15:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 09:52:15:   --> GET /vite2-react17/favicon.ico 200 3ms 3.78kb
+2022-04-14 09:52:17:   <-- GET /vite2-react17/assets/success.6a5bfed8.js
+2022-04-14 09:52:17:   --> GET /vite2-react17/assets/success.6a5bfed8.js 200 9ms 129b
+2022-04-14 09:52:18:   <-- GET /vite2-react17/assets/error.0006fa28.js
+2022-04-14 09:52:18:   --> GET /vite2-react17/assets/error.0006fa28.js 200 4ms 129b
+2022-04-14 09:52:21:   <-- GET /vite2-react17/assets/page500.7ce9d018.js
+2022-04-14 09:52:21:   --> GET /vite2-react17/assets/page500.7ce9d018.js 200 11ms 165b
+2022-04-14 09:55:14:   <-- GET /vite2-react17/result/page403
+2022-04-14 09:55:14: /vite2-react17/result/page403 888
+2022-04-14 09:55:14:   xxx GET /vite2-react17/result/page403 500 7ms -
+2022-04-14 09:55:14:   <-- GET /favicon.ico
+2022-04-14 09:55:14: /favicon.ico 888
+2022-04-14 09:55:14:   xxx GET /favicon.ico 500 48ms -
+2022-04-14 09:55:16:   <-- GET /favicon.ico
+2022-04-14 09:55:16: /favicon.ico 888
+2022-04-14 09:55:16:   xxx GET /favicon.ico 500 3ms -
+2022-04-14 09:55:19:   <-- GET /vite2-react17
+2022-04-14 09:55:19:   --> GET /vite2-react17 200 14ms 1.77kb
+2022-04-14 09:55:19:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 09:55:19:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 09:55:19:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 50ms 2.26kb
+2022-04-14 09:55:19:   --> GET /vite2-react17/assets/index.14818203.js 200 97ms 145.44kb
+2022-04-14 09:55:20:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 09:55:20:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 09:55:20:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 09:55:20:   --> GET /vite2-react17/assets/logo.08112076.svg 200 16ms 2.69kb
+2022-04-14 09:55:20:   --> GET /vite2-react17/assets/index.06cb61be.css 200 14ms 22b
+2022-04-14 09:55:20:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 66ms 850.7kb
+2022-04-14 09:55:20:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 09:55:20:   --> GET /vite2-react17/favicon.ico 200 3ms 3.78kb
+2022-04-14 09:55:42:   <-- GET /vite2-react17/assets/success.6a5bfed8.js
+2022-04-14 09:55:42:   --> GET /vite2-react17/assets/success.6a5bfed8.js 200 29ms 129b
+2022-04-14 09:57:14:   <-- GET /vite2-react17/
+2022-04-14 09:57:14:   --> GET /vite2-react17/ 200 6ms 1.77kb
+2022-04-14 09:57:14:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 09:57:14:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 09:57:14:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 25ms 2.26kb
+2022-04-14 09:57:14:   --> GET /vite2-react17/assets/index.14818203.js 200 44ms 145.44kb
+2022-04-14 09:57:14:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 09:57:14:   --> GET /vite2-react17/assets/logo.08112076.svg 200 8ms 2.69kb
+2022-04-14 09:57:14:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 09:57:14:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 19ms 850.7kb
+2022-04-14 09:57:14:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 09:57:14:   --> GET /vite2-react17/assets/index.06cb61be.css 200 12ms 22b
+2022-04-14 09:57:15:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 09:57:15:   --> GET /vite2-react17/favicon.ico 200 5ms 3.78kb
+2022-04-14 09:57:17:   <-- GET /vite2-react17/assets/index.870d44ee.js
+2022-04-14 09:57:17:   --> GET /vite2-react17/assets/index.870d44ee.js 200 14ms 3.81kb
+2022-04-14 09:57:18:   <-- GET /vite2-react17/about
+2022-04-14 09:57:18: /vite2-react17/about 888
+2022-04-14 09:57:18:   xxx GET /vite2-react17/about 500 5ms -
+2022-04-14 09:57:18:   <-- GET /favicon.ico
+2022-04-14 09:57:18: /favicon.ico 888
+2022-04-14 09:57:18:   xxx GET /favicon.ico 500 9ms -
+2022-04-14 09:57:43:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 09:57:43:   --> GET /vite2-react17/assets/logo.08112076.svg 200 10ms 2.69kb
+2022-04-14 09:58:52:   <-- GET /vite2-react17
+2022-04-14 09:58:52:   --> GET /vite2-react17 200 22ms 1.77kb
+2022-04-14 09:58:53:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 09:58:53:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 09:58:53:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 27ms 2.26kb
+2022-04-14 09:58:53:   --> GET /vite2-react17/assets/index.14818203.js 200 29ms 145.44kb
+2022-04-14 09:58:53:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 09:58:53:   --> GET /vite2-react17/assets/index.06cb61be.css 200 6ms 22b
+2022-04-14 09:58:53:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 09:58:53:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 21ms 850.7kb
+2022-04-14 09:58:53:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 09:58:53:   --> GET /vite2-react17/assets/logo.08112076.svg 200 68ms 2.69kb
+2022-04-14 09:58:53:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 09:58:53:   --> GET /vite2-react17/favicon.ico 200 6ms 3.78kb
+2022-04-14 09:59:26:   <-- GET /vite2-react17/assets/success.6a5bfed8.js
+2022-04-14 09:59:26:   --> GET /vite2-react17/assets/success.6a5bfed8.js 200 19ms 129b
+2022-04-14 09:59:26:   <-- GET /vite2-react17/assets/error.0006fa28.js
+2022-04-14 09:59:26:   --> GET /vite2-react17/assets/error.0006fa28.js 200 14ms 129b
+2022-04-14 09:59:28:   <-- GET /vite2-react17/assets/page500.7ce9d018.js
+2022-04-14 09:59:28:   --> GET /vite2-react17/assets/page500.7ce9d018.js 200 17ms 165b
+2022-04-14 10:28:20:   <-- GET /vite2-react17
+2022-04-14 10:28:20:   --> GET /vite2-react17 200 46ms 1.77kb
+2022-04-14 10:28:20:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 10:28:20:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 7ms 2.26kb
+2022-04-14 10:28:20:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 10:28:20:   --> GET /vite2-react17/assets/index.14818203.js 200 15ms 145.44kb
+2022-04-14 10:28:20:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 10:28:20:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 10:28:20:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 10:28:20:   --> GET /vite2-react17/assets/logo.08112076.svg 200 8ms 2.69kb
+2022-04-14 10:28:20:   --> GET /vite2-react17/assets/index.06cb61be.css 200 13ms 22b
+2022-04-14 10:28:20:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 29ms 850.7kb
+2022-04-14 10:28:21:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 10:28:21:   --> GET /vite2-react17/favicon.ico 200 3ms 3.78kb
+2022-04-14 10:42:02:   <-- GET /
+2022-04-14 10:42:02: / 888
+2022-04-14 10:42:02:   xxx GET / 500 16ms -
+2022-04-14 10:42:02:   <-- GET /favicon.ico
+2022-04-14 10:42:02: /favicon.ico 888
+2022-04-14 10:42:02:   xxx GET /favicon.ico 500 3ms -
+2022-04-14 10:42:38:   <-- GET /
+2022-04-14 10:42:38: / 888
+2022-04-14 10:42:38:   xxx GET / 500 6ms -
+2022-04-14 10:42:38:   <-- GET /favicon.ico
+2022-04-14 10:42:38: /favicon.ico 888
+2022-04-14 10:42:38:   xxx GET /favicon.ico 500 8ms -
+2022-04-14 10:42:40:   <-- GET /
+2022-04-14 10:42:40: / 888
+2022-04-14 10:42:40:   xxx GET / 500 8ms -
+2022-04-14 10:42:40:   <-- GET /favicon.ico
+2022-04-14 10:42:40: /favicon.ico 888
+2022-04-14 10:42:40:   xxx GET /favicon.ico 500 4ms -
+2022-04-14 10:42:40:   <-- GET /
+2022-04-14 10:42:40: / 888
+2022-04-14 10:42:40:   xxx GET / 500 6ms -
+2022-04-14 10:42:40:   <-- GET /favicon.ico
+2022-04-14 10:42:40: /favicon.ico 888
+2022-04-14 10:42:40:   xxx GET /favicon.ico 500 11ms -
+2022-04-14 10:42:41:   <-- GET /
+2022-04-14 10:42:41: / 888
+2022-04-14 10:42:41:   xxx GET / 500 2ms -
+2022-04-14 10:42:41:   <-- GET /favicon.ico
+2022-04-14 10:42:41: /favicon.ico 888
+2022-04-14 10:42:41:   xxx GET /favicon.ico 500 2ms -
+2022-04-14 10:42:57:   <-- GET /
+2022-04-14 10:42:57: / 888
+2022-04-14 10:42:57:   xxx GET / 500 4ms -
+2022-04-14 10:42:57:   <-- GET /favicon.ico
+2022-04-14 10:42:57: /favicon.ico 888
+2022-04-14 10:42:57:   xxx GET /favicon.ico 500 3ms -
+2022-04-14 10:42:57:   <-- GET /
+2022-04-14 10:42:57: / 888
+2022-04-14 10:42:57:   xxx GET / 500 1ms -
+2022-04-14 10:42:57:   <-- GET /favicon.ico
+2022-04-14 10:42:57: /favicon.ico 888
+2022-04-14 10:42:57:   xxx GET /favicon.ico 500 2ms -
+2022-04-14 10:42:57:   <-- GET /
+2022-04-14 10:42:57: / 888
+2022-04-14 10:42:57:   xxx GET / 500 1ms -
+2022-04-14 10:42:57:   <-- GET /favicon.ico
+2022-04-14 10:42:57: /favicon.ico 888
+2022-04-14 10:42:57:   xxx GET /favicon.ico 500 1ms -
+2022-04-14 10:42:58:   <-- GET /
+2022-04-14 10:42:58: / 888
+2022-04-14 10:42:58:   xxx GET / 500 2ms -
+2022-04-14 10:42:58:   <-- GET /favicon.ico
+2022-04-14 10:42:58: /favicon.ico 888
+2022-04-14 10:42:58:   xxx GET /favicon.ico 500 4ms -
+2022-04-14 10:42:58:   <-- GET /
+2022-04-14 10:42:58: / 888
+2022-04-14 10:42:58:   xxx GET / 500 1ms -
+2022-04-14 10:42:58:   <-- GET /favicon.ico
+2022-04-14 10:42:58: /favicon.ico 888
+2022-04-14 10:42:58:   xxx GET /favicon.ico 500 5ms -
+2022-04-14 10:43:16:   <-- GET /
+2022-04-14 10:43:16: / 888
+2022-04-14 10:43:16:   xxx GET / 500 16ms -
+2022-04-14 10:43:16:   <-- GET /favicon.ico
+2022-04-14 10:43:16: /favicon.ico 888
+2022-04-14 10:43:16:   xxx GET /favicon.ico 500 2ms -
+2022-04-14 10:43:17:   <-- GET /
+2022-04-14 10:43:17: / 888
+2022-04-14 10:43:17:   xxx GET / 500 6ms -
+2022-04-14 10:43:17:   <-- GET /favicon.ico
+2022-04-14 10:43:17: /favicon.ico 888
+2022-04-14 10:43:17:   xxx GET /favicon.ico 500 3ms -
+2022-04-14 10:43:17:   <-- GET /
+2022-04-14 10:43:17: / 888
+2022-04-14 10:43:17:   xxx GET / 500 6ms -
+2022-04-14 10:43:17:   <-- GET /favicon.ico
+2022-04-14 10:43:17: /favicon.ico 888
+2022-04-14 10:43:17:   xxx GET /favicon.ico 500 5ms -
+2022-04-14 10:43:17:   <-- GET /
+2022-04-14 10:43:17: / 888
+2022-04-14 10:43:17:   xxx GET / 500 4ms -
+2022-04-14 10:43:17:   <-- GET /favicon.ico
+2022-04-14 10:43:17: /favicon.ico 888
+2022-04-14 10:43:17:   xxx GET /favicon.ico 500 1ms -
+2022-04-14 10:43:17:   <-- GET /
+2022-04-14 10:43:17: / 888
+2022-04-14 10:43:17:   xxx GET / 500 6ms -
+2022-04-14 10:43:17:   <-- GET /favicon.ico
+2022-04-14 10:43:17: /favicon.ico 888
+2022-04-14 10:43:17:   xxx GET /favicon.ico 500 16ms -
+2022-04-14 10:43:18:   <-- GET /
+2022-04-14 10:43:18: / 888
+2022-04-14 10:43:18:   xxx GET / 500 2ms -
+2022-04-14 10:43:18:   <-- GET /favicon.ico
+2022-04-14 10:43:18: /favicon.ico 888
+2022-04-14 10:43:18:   xxx GET /favicon.ico 500 1ms -
+2022-04-14 10:43:28:   <-- GET /
+2022-04-14 10:43:28: / 888
+2022-04-14 10:43:28:   xxx GET / 500 4ms -
+2022-04-14 10:43:28:   <-- GET /favicon.ico
+2022-04-14 10:43:28: /favicon.ico 888
+2022-04-14 10:43:28:   xxx GET /favicon.ico 500 5ms -
+2022-04-14 10:43:28:   <-- GET /
+2022-04-14 10:43:28: / 888
+2022-04-14 10:43:28:   xxx GET / 500 9ms -
+2022-04-14 10:43:28:   <-- GET /favicon.ico
+2022-04-14 10:43:28: /favicon.ico 888
+2022-04-14 10:43:28:   xxx GET /favicon.ico 500 14ms -
+2022-04-14 10:43:29:   <-- GET /
+2022-04-14 10:43:29: / 888
+2022-04-14 10:43:29:   xxx GET / 500 1ms -
+2022-04-14 10:43:29:   <-- GET /favicon.ico
+2022-04-14 10:43:29: /favicon.ico 888
+2022-04-14 10:43:29:   xxx GET /favicon.ico 500 3ms -
+2022-04-14 10:43:29:   <-- GET /
+2022-04-14 10:43:29: / 888
+2022-04-14 10:43:29:   xxx GET / 500 1ms -
+2022-04-14 10:43:29:   <-- GET /favicon.ico
+2022-04-14 10:43:29: /favicon.ico 888
+2022-04-14 10:43:29:   xxx GET /favicon.ico 500 1ms -
+2022-04-14 10:43:29:   <-- GET /
+2022-04-14 10:43:29: / 888
+2022-04-14 10:43:29:   xxx GET / 500 3ms -
+2022-04-14 10:43:29:   <-- GET /favicon.ico
+2022-04-14 10:43:29: /favicon.ico 888
+2022-04-14 10:43:29:   xxx GET /favicon.ico 500 5ms -
+2022-04-14 10:43:29:   <-- GET /
+2022-04-14 10:43:29: / 888
+2022-04-14 10:43:29:   xxx GET / 500 7ms -
+2022-04-14 10:43:29:   <-- GET /favicon.ico
+2022-04-14 10:43:29: /favicon.ico 888
+2022-04-14 10:43:29:   xxx GET /favicon.ico 500 2ms -
+2022-04-14 10:44:28:   <-- GET /
+2022-04-14 10:44:28: / 888
+2022-04-14 10:44:28:   xxx GET / 500 5ms -
+2022-04-14 10:44:28:   <-- GET /favicon.ico
+2022-04-14 10:44:28: /favicon.ico 888
+2022-04-14 10:44:28:   xxx GET /favicon.ico 500 7ms -
+2022-04-14 10:44:38:   <-- GET /
+2022-04-14 10:44:38: / 888
+2022-04-14 10:44:38:   xxx GET / 500 5ms -
+2022-04-14 10:44:38:   <-- GET /favicon.ico
+2022-04-14 10:44:38: /favicon.ico 888
+2022-04-14 10:44:38:   xxx GET /favicon.ico 500 21ms -
+2022-04-14 10:44:39:   <-- GET /
+2022-04-14 10:44:39: / 888
+2022-04-14 10:44:39:   xxx GET / 500 7ms -
+2022-04-14 10:44:39:   <-- GET /favicon.ico
+2022-04-14 10:44:39: /favicon.ico 888
+2022-04-14 10:44:39:   xxx GET /favicon.ico 500 2ms -
+2022-04-14 10:44:39:   <-- GET /
+2022-04-14 10:44:39: / 888
+2022-04-14 10:44:39:   xxx GET / 500 12ms -
+2022-04-14 10:44:39:   <-- GET /favicon.ico
+2022-04-14 10:44:39: /favicon.ico 888
+2022-04-14 10:44:39:   xxx GET /favicon.ico 500 11ms -
+2022-04-14 10:44:39:   <-- GET /
+2022-04-14 10:44:39: / 888
+2022-04-14 10:44:39:   xxx GET / 500 2ms -
+2022-04-14 10:44:39:   <-- GET /favicon.ico
+2022-04-14 10:44:39: /favicon.ico 888
+2022-04-14 10:44:39:   xxx GET /favicon.ico 500 1ms -
+2022-04-14 10:44:39:   <-- GET /
+2022-04-14 10:44:39: / 888
+2022-04-14 10:44:39:   xxx GET / 500 1ms -
+2022-04-14 10:44:40:   <-- GET /favicon.ico
+2022-04-14 10:44:40: /favicon.ico 888
+2022-04-14 10:44:40:   xxx GET /favicon.ico 500 3ms -
+2022-04-14 10:44:40:   <-- GET /
+2022-04-14 10:44:40: / 888
+2022-04-14 10:44:40:   xxx GET / 500 2ms -
+2022-04-14 10:44:40:   <-- GET /favicon.ico
+2022-04-14 10:44:40: /favicon.ico 888
+2022-04-14 10:44:40:   xxx GET /favicon.ico 500 1ms -
+2022-04-14 10:44:40:   <-- GET /
+2022-04-14 10:44:40: / 888
+2022-04-14 10:44:40:   xxx GET / 500 9ms -
+2022-04-14 10:44:40:   <-- GET /favicon.ico
+2022-04-14 10:44:40: /favicon.ico 888
+2022-04-14 10:44:40:   xxx GET /favicon.ico 500 4ms -
+2022-04-14 10:44:40:   <-- GET /
+2022-04-14 10:44:40: / 888
+2022-04-14 10:44:40:   xxx GET / 500 1ms -
+2022-04-14 10:44:40:   <-- GET /favicon.ico
+2022-04-14 10:44:40: /favicon.ico 888
+2022-04-14 10:44:40:   xxx GET /favicon.ico 500 3ms -
+2022-04-14 10:44:40:   <-- GET /
+2022-04-14 10:44:40: / 888
+2022-04-14 10:44:40:   xxx GET / 500 3ms -
+2022-04-14 10:44:40:   <-- GET /favicon.ico
+2022-04-14 10:44:40: /favicon.ico 888
+2022-04-14 10:44:40:   xxx GET /favicon.ico 500 2ms -
+2022-04-14 10:44:40:   <-- GET /
+2022-04-14 10:44:40: / 888
+2022-04-14 10:44:40:   xxx GET / 500 3ms -
+2022-04-14 10:44:40:   <-- GET /favicon.ico
+2022-04-14 10:44:40: /favicon.ico 888
+2022-04-14 10:44:40:   xxx GET /favicon.ico 500 2ms -
+2022-04-14 10:45:31: 数据库链接成功-connection success
+2022-04-14 10:45:31: 数据库链接成功-connection success
+2022-04-14 10:45:31:   <-- GET /
+2022-04-14 10:45:31:   --> GET / 200 29ms 393b
+2022-04-14 10:45:31:   <-- GET /favicon.ico
+2022-04-14 10:45:31:   --> GET /favicon.ico 404 7ms -
+2022-04-14 10:45:31: 数据库链接成功-connection success
+2022-04-14 10:45:31: 数据库链接成功-connection success
+2022-04-14 10:45:33:   <-- GET /
+2022-04-14 10:45:33:   --> GET / 200 12ms 393b
+2022-04-14 10:45:33:   <-- GET /
+2022-04-14 10:45:33:   --> GET / 200 8ms 393b
+2022-04-14 10:45:34:   <-- GET /
+2022-04-14 10:45:34:   --> GET / 200 5ms 393b
+2022-04-14 10:45:34:   <-- GET /
+2022-04-14 10:45:34:   --> GET / 200 8ms 393b
+2022-04-14 10:45:34:   <-- GET /
+2022-04-14 10:45:34:   --> GET / 200 3ms 393b
+2022-04-14 10:45:34:   <-- GET /
+2022-04-14 10:45:34:   --> GET / 200 9ms 393b
+2022-04-14 10:45:34:   <-- GET /
+2022-04-14 10:45:34:   --> GET / 200 3ms 393b
+2022-04-14 10:46:11: 数据库链接成功-connection success
+2022-04-14 10:46:11:   <-- GET /vite2-react17
+2022-04-14 10:46:12:   --> GET /vite2-react17 200 49ms 1.77kb
+2022-04-14 10:46:12:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 10:46:12:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 10:46:12: 数据库链接成功-connection success
+2022-04-14 10:46:12:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 30ms 2.26kb
+2022-04-14 10:46:12:   --> GET /vite2-react17/assets/index.14818203.js 200 153ms 145.44kb
+2022-04-14 10:46:12:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 10:46:12:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 10:46:12:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 10:46:12:   --> GET /vite2-react17/assets/logo.08112076.svg 200 12ms 2.69kb
+2022-04-14 10:46:12:   --> GET /vite2-react17/assets/index.06cb61be.css 200 36ms 22b
+2022-04-14 10:46:12:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 62ms 850.7kb
+2022-04-14 10:46:12: 数据库链接成功-connection success
+2022-04-14 10:46:12: 数据库链接成功-connection success
+2022-04-14 10:46:12:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 10:46:12:   --> GET /vite2-react17/favicon.ico 200 13ms 3.78kb
+2022-04-14 10:46:18: 数据库链接成功-connection success
+2022-04-14 10:46:18: 数据库链接成功-connection success
+2022-04-14 10:46:18: 数据库链接成功-connection success
+2022-04-14 10:46:18: 数据库链接成功-connection success
+2022-04-14 10:53:15:   <-- GET /vite2-react17
+2022-04-14 10:53:15:   --> GET /vite2-react17 200 27ms 1.77kb
+2022-04-14 10:53:15:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 10:53:15:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 10:53:15:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 51ms 2.26kb
+2022-04-14 10:53:15:   --> GET /vite2-react17/assets/index.14818203.js 200 42ms 145.44kb
+2022-04-14 10:53:15:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 10:53:15:   --> GET /vite2-react17/assets/logo.08112076.svg 200 6ms 2.69kb
+2022-04-14 10:53:15:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 10:53:15:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 23ms 850.7kb
+2022-04-14 10:53:15:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 10:53:15:   --> GET /vite2-react17/assets/index.06cb61be.css 200 20ms 22b
+2022-04-14 10:53:15:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 10:53:15:   --> GET /vite2-react17/favicon.ico 200 5ms 3.78kb
+2022-04-14 10:58:32:   <-- GET /
+2022-04-14 10:58:32:   --> GET / 200 54ms 393b
+2022-04-14 11:10:38:   <-- GET /vite2-react17
+2022-04-14 11:10:38:   --> GET /vite2-react17 200 51ms 1.77kb
+2022-04-14 11:10:38:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 11:10:38:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 11:10:38:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 28ms 2.26kb
+2022-04-14 11:10:38:   --> GET /vite2-react17/assets/index.14818203.js 200 26ms 145.44kb
+2022-04-14 11:10:38:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 11:10:38:   --> GET /vite2-react17/assets/logo.08112076.svg 200 13ms 2.69kb
+2022-04-14 11:10:38:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 11:10:38:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 11:10:38:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 34ms 850.7kb
+2022-04-14 11:10:38:   --> GET /vite2-react17/assets/index.06cb61be.css 200 26ms 22b
+2022-04-14 11:13:35:   <-- GET /vite2-react17
+2022-04-14 11:13:35:   --> GET /vite2-react17 200 18ms 1.77kb
+2022-04-14 11:13:35:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 11:13:35:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 11:13:35:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 37ms 2.26kb
+2022-04-14 11:13:35:   --> GET /vite2-react17/assets/index.14818203.js 200 53ms 145.44kb
+2022-04-14 11:13:35:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 11:13:35:   --> GET /vite2-react17/assets/logo.08112076.svg 200 11ms 2.69kb
+2022-04-14 11:13:35:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 11:13:35:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 42ms 850.7kb
+2022-04-14 11:13:35:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 11:13:35:   --> GET /vite2-react17/assets/index.06cb61be.css 200 19ms 22b
+2022-04-14 11:13:36:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 11:13:36:   --> GET /vite2-react17/favicon.ico 200 4ms 3.78kb
+2022-04-14 11:19:32:   <-- GET /nba_match.nba_match_list
+2022-04-14 11:19:32:   --> GET /nba_match.nba_match_list 404 14ms -
+2022-04-14 11:19:42:   <-- GET /api/nba/match/list
+2022-04-14 11:19:42: ===================requestGet=====================
+2022-04-14 11:20:16:   <-- GET /api/nba/rank
+2022-04-14 11:20:16:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 11:20:16: ===================requestGet=====================
+2022-04-14 11:20:16:   --> GET /vite2-react17/assets/logo.08112076.svg 200 18ms 2.69kb
+2022-04-14 11:20:58: 请求失败！
+2022-04-14 11:20:58:   xxx GET /api/nba/match/list 500 75s -
+2022-04-14 11:21:31: 请求失败！
+2022-04-14 11:21:31:   xxx GET /api/nba/rank 500 75s -
+2022-04-14 11:22:28:   <-- GET /api/nba/rank
+2022-04-14 11:22:28: ===================requestGet=====================
+2022-04-14 11:23:43: 请求失败！
+2022-04-14 11:23:43:   xxx GET /api/nba/rank 500 75s -
+2022-04-14 11:26:23:   <-- GET /api/nba/rank
+2022-04-14 11:26:23: ===================requestGet=====================
+2022-04-14 11:27:18:   <-- GET /api/nba/rank
+2022-04-14 11:27:18: ===================requestGet=====================
+2022-04-14 11:27:18: 请求失败！
+2022-04-14 11:27:18:   xxx GET /api/nba/rank 500 359ms -
+2022-04-14 11:27:27:   <-- GET /api/nba/rank
+2022-04-14 11:27:27: ===================requestGet=====================
+2022-04-14 11:27:27: 请求失败！
+2022-04-14 11:27:27:   xxx GET /api/nba/rank 500 270ms -
+2022-04-14 11:27:38: 请求失败！
+2022-04-14 11:27:38:   xxx GET /api/nba/rank 500 75s -
+2022-04-14 11:28:09:   <-- GET /api/nba/match/list
+2022-04-14 11:28:09: ===================requestGet=====================
+2022-04-14 11:28:10: 请求成功！
+2022-04-14 11:28:10:   --> GET /api/nba/match/list 200 263ms 7.07kb
+2022-04-14 11:28:33:   <-- GET /vite2-react17
+2022-04-14 11:28:33:   --> GET /vite2-react17 200 13ms 1.77kb
+2022-04-14 11:28:33:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 11:28:33:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 11:28:33:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 68ms 2.26kb
+2022-04-14 11:28:33:   --> GET /vite2-react17/assets/index.14818203.js 200 74ms 145.44kb
+2022-04-14 11:28:33:   <-- GET /vite2-react17/assets/index.06cb61be.css
+2022-04-14 11:28:33:   --> GET /vite2-react17/assets/index.06cb61be.css 200 3ms 22b
+2022-04-14 11:28:33:   <-- GET /vite2-react17/assets/index.8aaae64d.js
+2022-04-14 11:28:33:   --> GET /vite2-react17/assets/index.8aaae64d.js 200 35ms 850.7kb
+2022-04-14 11:28:33:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 11:28:33:   --> GET /vite2-react17/assets/logo.08112076.svg 200 5ms 2.69kb
+2022-04-14 13:40:45:   <-- GET /vite2-react17/index.html
+2022-04-14 13:40:45:   --> GET /vite2-react17/index.html 200 131ms 1.77kb
+2022-04-14 13:40:46:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 13:40:46:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 13:40:46:   --> GET /vite2-react17/assets/index.14818203.js 200 19ms 145.44kb
+2022-04-14 13:40:46:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 146ms 2.26kb
+2022-04-14 13:40:46:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 13:40:46:   --> GET /vite2-react17/assets/logo.08112076.svg 200 6ms 2.69kb
+2022-04-14 13:40:54:   <-- GET /vite2-react17/index.html
+2022-04-14 13:40:54:   --> GET /vite2-react17/index.html 200 11ms 1.77kb
+2022-04-14 13:40:54:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 13:40:54:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 13:40:54:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 61ms 2.26kb
+2022-04-14 13:40:54:   --> GET /vite2-react17/assets/index.14818203.js 200 79ms 145.44kb
+2022-04-14 13:40:55:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 13:40:55:   --> GET /vite2-react17/assets/logo.08112076.svg 200 7ms 2.69kb
+2022-04-14 13:40:55:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 13:40:55:   --> GET /vite2-react17/favicon.ico 200 11ms 3.78kb
+2022-04-14 13:40:56:   <-- GET /vite2-react17/index.html
+2022-04-14 13:40:56:   --> GET /vite2-react17/index.html 200 7ms 1.77kb
+2022-04-14 13:40:56:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 13:40:56:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 13:40:56:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 31ms 2.26kb
+2022-04-14 13:40:56:   --> GET /vite2-react17/assets/index.14818203.js 200 45ms 145.44kb
+2022-04-14 13:40:57:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 13:40:57:   --> GET /vite2-react17/assets/logo.08112076.svg 200 5ms 2.69kb
+2022-04-14 13:40:57:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 13:40:57:   --> GET /vite2-react17/favicon.ico 200 3ms 3.78kb
+2022-04-14 13:41:01:   <-- GET /vite2-react17/assets/error.0006fa28.js
+2022-04-14 13:41:01:   --> GET /vite2-react17/assets/error.0006fa28.js 200 12ms 129b
+2022-04-14 13:41:03:   <-- GET /vite2-react17/result/error
+2022-04-14 13:41:03:   --> GET /vite2-react17/result/error 404 7ms -
+2022-04-14 13:41:05:   <-- GET /vite2-react17/index.html
+2022-04-14 13:41:05:   --> GET /vite2-react17/index.html 200 6ms 1.77kb
+2022-04-14 13:41:05:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 13:41:05:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 13:41:05:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 19ms 2.26kb
+2022-04-14 13:41:05:   --> GET /vite2-react17/assets/index.14818203.js 200 41ms 145.44kb
+2022-04-14 13:41:05:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 13:41:05:   --> GET /vite2-react17/assets/logo.08112076.svg 200 12ms 2.69kb
+2022-04-14 13:41:05:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 13:41:05:   --> GET /vite2-react17/favicon.ico 200 14ms 3.78kb
+2022-04-14 14:31:27:   <-- GET /vite2-react17/index.html
+2022-04-14 14:31:27:   --> GET /vite2-react17/index.html 200 14ms 1.77kb
+2022-04-14 14:31:27:   <-- GET /vite2-react17/assets/index.92c3b5d0.css
+2022-04-14 14:31:27:   <-- GET /vite2-react17/assets/index.14818203.js
+2022-04-14 14:31:27:   --> GET /vite2-react17/assets/index.92c3b5d0.css 200 22ms 2.26kb
+2022-04-14 14:31:27:   --> GET /vite2-react17/assets/index.14818203.js 200 33ms 145.44kb
+2022-04-14 14:31:27:   <-- GET /vite2-react17/assets/logo.08112076.svg
+2022-04-14 14:31:27:   --> GET /vite2-react17/assets/logo.08112076.svg 200 28ms 2.69kb
+2022-04-14 14:31:27:   <-- GET /vite2-react17/favicon.ico
+2022-04-14 14:31:27:   --> GET /vite2-react17/favicon.ico 200 3ms 3.78kb
+2022-04-14 15:41:33:   <-- GET /
+2022-04-14 15:41:33:   --> GET / 200 67ms 393b
+2022-04-14 15:41:34:   <-- GET /favicon.ico
+2022-04-14 15:41:34:   --> GET /favicon.ico 404 5ms -
+2022-04-14 15:41:39:   <-- GET /nba
+2022-04-14 15:41:39:   --> GET /nba 200 29ms 344b
+2022-04-14 15:41:52:   <-- GET /
+2022-04-14 15:41:52:   --> GET / 200 30ms 393b
+2022-04-14 15:41:53:   <-- GET /nab
+2022-04-14 15:41:53:   --> GET /nab 404 6ms -
+2022-04-14 15:42:00:   <-- GET /nba
+2022-04-14 15:42:00:   --> GET /nba 200 42ms 344b

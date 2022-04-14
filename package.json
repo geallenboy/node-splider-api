@@ -3,8 +3,8 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "test": "jest",
-    "start": "pm2 start processes.json --watch"
+    "dev": "pm2 start processes.json --watch",
+    "start": "pm2 start processes.json"
   },
   "dependencies": {
     "axios": "^0.19.2",
